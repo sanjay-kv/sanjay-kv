@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&theme=merko&layout=compact" alt="Sanjay's github top languages" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa" alt="Sanjay's github top languages" />
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 <br/>
