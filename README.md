@@ -7,8 +7,8 @@
 <a href="https://github.com/Sanjayviswa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanjayviswa&show_icons=true&theme=merko&count_private=true" alt="Sanjay K V github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&theme=merko&layout=compact" alt="Sanjay's github top languages" />
-  <img height="160em"  width ="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa" alt="Coding Activity" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa" alt="Coding Activity" />
 </a>
-![counter](https://https://enct8yvqkgdbon1.m.pipedream.net)
+![counter](https://enct8yvqkgdbon1.m.pipedream.net)
 <br/>
 
