@@ -1,6 +1,6 @@
 - 🔭 I’m currently working at LTI as Software Engineer
 - ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)
-- 📫 How to reach me: sanjay@recodehive.com
+- 📫 How to reach me: sanjay@recodehive.com or visit [Linkedin](https://www.linkedin.com/in/sanjay-k-v/)
 - 👯 I’m looking to collaborate on recodehive.com
 - 💬 Ask me about SEO/Data Science
 
