@@ -1,5 +1,5 @@
-# <img src ="https://raw.githubusercontent.com/Sanjayviswa/Sanjayviswa/main/Hand%20Wave.gif">Hey there! I'm Sanjay K V
-👨🏻‍💻  About Me
+ <img src ="https://raw.githubusercontent.com/Sanjayviswa/Sanjayviswa/main/Hand%20Wave.gif">##Hey there! I'm Sanjay K V<br>
+👨🏻‍💻  About Me<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
 📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
