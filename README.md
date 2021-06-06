@@ -1,4 +1,4 @@
- <img src ="https://raw.githubusercontent.com/Sanjayviswa/Sanjayviswa/main/Hand%20Wave.gif" width="40" height="40" align="right"> Hey there! I'm Sanjay K V<br>
+ <img src ="https://raw.githubusercontent.com/Sanjayviswa/Sanjayviswa/main/Hand%20Wave.gif" width="40" height="40" align="left"> Hey there! I'm Sanjay K V<br>
  
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
