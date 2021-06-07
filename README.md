@@ -1,4 +1,4 @@
- <img src ="https://raw.githubusercontent.com/Sanjayviswa/Sanjayviswa/main/Hand%20Wave.gif" width="30" height="30" align="left"> Hey there! I'm Sanjay K V<br>
+### Hi there, I'm [Sanjay](https://recodehive.com/sanjay) 👋
  
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
