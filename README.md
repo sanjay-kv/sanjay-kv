@@ -12,7 +12,13 @@
 <a href="https://github.com/Sanjayviswa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanjayviswa&show_icons=true&theme=dark&count_private=true" alt="Sanjay K V github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&hide=Rebol&langs_count=8&theme=dark&layout=compact" alt="Sanjay's github top languages" />
-   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjayviswa&theme=vue" alt="Sanjay K V github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
+ <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Sanjay K V github stats" />
+ 
+ 
+ 
   <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
 </a>
 
