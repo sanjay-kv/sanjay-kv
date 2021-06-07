@@ -11,7 +11,7 @@
 <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji>  **GitHub Analytics**<br>
 <a href="https://github.com/Sanjayviswa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanjayviswa&show_icons=true&theme=dark&count_private=true" alt="Sanjay K V github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&theme=dark&layout=compact&langs_count=8" alt="Sanjay's github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&hide=Rebol&langs_count=8&theme=dark&layout=compact" alt="Sanjay's github top languages" />
   <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
 </a>
 
