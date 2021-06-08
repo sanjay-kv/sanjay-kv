@@ -6,7 +6,8 @@
   <a href="https://twitter.com/_sanjayviswa">Twitter</a>-
   <a href="https://in.pinterest.com/sanjay_viswa/">Pinterest</a>-
   <a href="https://recodehive.com/">Website</a>
-</p><br>
+</p>
+
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
