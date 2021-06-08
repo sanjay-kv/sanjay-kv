@@ -8,7 +8,6 @@
   <a href="https://recodehive.com/">Website</a></p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
 📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
