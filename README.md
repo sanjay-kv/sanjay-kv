@@ -1,18 +1,13 @@
-<h1 align="center">  Hi there ,</h1>
-
+<h1 align="center"> Hi there, I'm [Sanjay](https://recodehive.com/sanjay) 👋</h1>
 
 <p align="center">
-  <a href="https://compgat.netlify.app/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/valentine-gatwiri-72901618a">Linkedin</a> - 
-  <a href="https://twitter.com/ValentineGatwi3?s=09">Twitter</a>-
-  <a href="https://compgat.medium.com/">Medium</a>-
-  <a href="https://stackoverflow.com/users/15049827/1-creator">Stackoverflow</a>
+  <a href="https://recodehive.com/sanjay">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/sanjay-k-v/">Linkedin</a> - 
+  <a href="https://twitter.com/_sanjayviswa">Twitter</a>-
+  <a href="https://in.pinterest.com/sanjay_viswa/">Pinterest</a>-
+  <a href="https://recodehive.com/">Website</a>
 </p>
-
 -----------------------------------------------------------
-
-### Hi there, I'm [Sanjay](https://recodehive.com/sanjay) 👋
- 
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
