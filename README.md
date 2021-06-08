@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm [Sanjay](https://recodehive.com/sanjay) 👋</h1>
+<h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> 👋</h1>
 
 <p align="center">
   <a href="https://recodehive.com/sanjay">Portfolio</a> -
