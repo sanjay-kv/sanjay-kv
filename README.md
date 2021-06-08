@@ -25,7 +25,7 @@
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Sanjay K V github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
   <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
 </a>
 
