@@ -5,8 +5,7 @@
   <a href="https://www.linkedin.com/in/sanjay-k-v/">Linkedin</a> - 
   <a href="https://twitter.com/_sanjayviswa">Twitter</a>-
   <a href="https://in.pinterest.com/sanjay_viswa/">Pinterest</a>-
-  <a href="https://recodehive.com/">Website</a>
-</p>
+  <a href="https://recodehive.com/">Website</a></p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
