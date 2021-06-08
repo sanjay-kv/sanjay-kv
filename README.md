@@ -7,7 +7,10 @@
   <a href="https://in.pinterest.com/sanjay_viswa/">Pinterest</a>-
   <a href="https://recodehive.com/">Website</a>
 </p>
+
+
 -----------------------------------------------------------
+
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
