@@ -10,7 +10,6 @@
 
 
 -----------------------------------------------------------
-
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
