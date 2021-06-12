@@ -25,21 +25,21 @@
  <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br></details>
-  
+  </a>
 <details>	
   <summary><b>💬Curated Articles</b></summary>
    <!-- BLOG-POST-LIST:START -->
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
-- [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
-- [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-- [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-- [Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
+[GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
+[Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
+[Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
+[Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://recodehive.com/)
 
- </details> 
+</details> 
  <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/_sanjayviswa"><img src="https://img.shields.io/twitter/follow/_sanjayviswa?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
 <div align="center">
 
