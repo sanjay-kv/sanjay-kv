@@ -29,12 +29,12 @@
 <details>	
   <summary><b>📝Curated Articles</b></summary>
 
-➡️ [more blog posts...](https://recodehive.com/)
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
-[GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
-[Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-[Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-[Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
+  
+📘 [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
+📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
+📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
+🔖 [Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
 
 
 
