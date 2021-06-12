@@ -26,14 +26,14 @@
   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br></details>
   
- <details>	
+<details>	
   <summary><b>💬Curated Articles</b></summary>
    <!-- BLOG-POST-LIST:START -->
-I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)
-- [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)
-- [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)
-- [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)
-- [Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)
+I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
+- [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
+- [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
+- [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
+- [Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
 
 <!-- BLOG-POST-LIST:END -->
 
