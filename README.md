@@ -24,7 +24,7 @@
  <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
   <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
- <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><img src="https://img.shields.io/twitter/follow/_sanjayviswa?style=social">&nbsp;&nbsp;<img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></p>
+ <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/_sanjayviswa"><img src="https://img.shields.io/twitter/follow/_sanjayviswa?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
 <div align="center">
 
 #### Show some ❤️ by starring some of the repositories!
