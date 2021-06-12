@@ -6,12 +6,12 @@
   <a href="https://twitter.com/_sanjayviswa">Twitter</a>-
   <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a>-
   <a href="https://recodehive.com/">Website</a></p>
-
+<img align="right" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/logo.png?raw=true" width="50px" height="50px"/>
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
-📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
+📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)[![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Chaudhari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanjay-k-v/)](https://www.linkedin.com/in/sanjay-k-v/)<br>
 👯 Looking to collaborate on recodehive.com<br>
 💬 Ask me about SEO/Data Science<br><br>
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> **Tech Stack**<br>
