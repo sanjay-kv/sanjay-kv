@@ -10,7 +10,7 @@
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
-📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)[![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Chaudhari-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ankit1598/)](https://www.linkedin.com/in/ankit1598/) [![Twitter Badge](https://img.shields.io/badge/-Ankit%20Chaudhari-blue?style=social&logo=Twitter&logoColor=blue&link=https://www.twitter.com/Ankit15_)](https://twitter.com/Ankit15_) [![Instagram Badge](https://img.shields.io/badge/-ankitvc-blue?style=social&logo=Instagram&link=https://www.instagram.com/ankitvc/)](https://www.instagram.com/ankitvc/) [![GitHub followers](https://img.shields.io/github/followers/Ankit1598?label=Follow&style=social)](https://github.com/Ankit1598/?tab=follow) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ankit1598)
+📫 How to reach me: sanjay@recodehive.com or visit [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)[![Linkedin Badge](https://img.shields.io/badge/-Sanjay%20KV-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sanjay-k-v/)](https://www.linkedin.com/in/sanjay-k-v/) 
 <br>
 👯 Looking to collaborate on recodehive.com<br>
 💬 Ask me about SEO/Data Science<br><br>
