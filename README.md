@@ -5,13 +5,13 @@
   <a href="https://www.linkedin.com/in/sanjay-k-v/">Linkedin</a> - 
   <a href="https://twitter.com/_sanjayviswa">Twitter</a> -
   <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p><img align="right" src="https://github.com/Sanjayviswa/Sanjayviswa/blob/main/Developer.png" width="90px" height="90px"/>
+  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p><img align="right" src="https://github.com/Sanjayviswa/Sanjayviswa/blob/main/Developer.png" width="130px" height="120px"/>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
 🔭 I’m currently working at LTI as Software Engineer<br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
-📫 How to reach me: sanjay@recodehive.com or visit [Linkedin Badge](https://camo.githubusercontent.com/b7889c83d645843fb4b515c16813b2405a6d570ce77213c034f616debbcde27e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
+📫 How to reach me: sanjay@recodehive.com or visit <a href="https://www.linkedin.com/in/sanjay-k-v/"><img src="https://camo.githubusercontent.com/b7889c83d645843fb4b515c16813b2405a6d570ce77213c034f616debbcde27e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
 <br>
 👯 Looking to collaborate on recodehive.com<br>
 💬 Ask me about SEO/Data Science<br><br>
