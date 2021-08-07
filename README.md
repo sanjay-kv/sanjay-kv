@@ -10,7 +10,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
 🔭 Software Engineer at LTI <br>
-⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [Online Course](https://recodehive.com/linkedin-bootcamp/)<br>
+⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [EBook](https://learn.recodehive.com/datascience)<br>
 📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
 👯 Looking to collaborate on recodehive.com<br>
 💬 Ask me about SEO/Data Science<br><br>
