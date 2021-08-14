@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://recodehive.com/sanjay">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://twitter.com/_sanjayviswa">Twitter</a> -
+  <a href="https://twitter.com/sanjay_k_v">Twitter</a> -
   <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p>
 
