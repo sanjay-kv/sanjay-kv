@@ -49,7 +49,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <details>	
   <summary><b>📚Recent Projects</b></summary><br>
   
-  ✨ [Android Project Made with Android Studio](https://play.google.com/store/apps/developer?id=Recode+Hive)<br>
+  ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br>
   ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
 
 </details> 
