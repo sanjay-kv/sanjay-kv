@@ -34,10 +34,10 @@ Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d6
 </details>
   </a>
 
-  <summary><b>📝Curated Articles</b></summary><br>
+  <b>📝Curated Articles</b><br>
   
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
-  
+  Below are the few trending posts.👇
   📘 [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
