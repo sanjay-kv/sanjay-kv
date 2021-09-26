@@ -33,7 +33,7 @@ Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d6
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&layout=compact&theme=github_dark&border_color=21262D" /><br>  
 </details>
   </a>
-<details>	
+
   <summary><b>📝Curated Articles</b></summary><br>
   
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
@@ -44,7 +44,7 @@ I write regular blog posts, most of which you will find on my personal website [
   🔖 [Android Studio Tutorials | From Scratch](https://recodehive.com/android-dev/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
 
-</details> 
+
  
 <details>	
   <summary><b>📚Recent Projects</b></summary><br>
