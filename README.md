@@ -33,7 +33,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
 <details>	
   <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/Sanjayviswa">
+<a href="https://github.com/sanjay-kv">
  
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
