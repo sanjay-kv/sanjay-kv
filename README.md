@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> 👋</h1>
 
 <p align="center">
-  <a href="https://recodehive.com/sanjay">Portfolio</a> -
+  <a href="http://sanjaykv.com/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
   <a href="https://twitter.com/sanjay_k_v">Twitter</a> -
   <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a> -
@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<br>
-🔭 Software Engineer at LTI <br>
+🔭 Ex-Software Engineer at LTI <br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [EBook](https://learn.recodehive.com/datascience)<br>
 📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
 👯 Looking to collaborate on recodehive.com<br>
