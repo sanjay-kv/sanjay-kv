@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> 👋</h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" />, I'm <a href="https://recodehive.com/sanjay">Sanjay KV</a> </h1>
 
 <p align="center">
   <a href="http://sanjaykv.com/">Portfolio</a> -
@@ -21,7 +21,7 @@ Tools and Platforms: <img src="https://camo.githubusercontent.com/dc72fe73865526
 Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">&nbsp;<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
 
   <b>📝Curated Articles</b><br>
-  
+
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
   Below are the few trending posts.👇<br>
   📘 [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
@@ -34,7 +34,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <details>	
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
- 
+
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
@@ -45,10 +45,10 @@ I write regular blog posts, most of which you will find on my personal website [
   </a>
 
 
- 
+
 <details>	
   <summary><b>📚Recent Projects</b></summary><br>
-  
+
   ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br>
   ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
 
