@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48px" />, I'm <a href="https://recodehive.com/sanjay">Sanjay KV</a> </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="39px" />, I'm <a href="https://recodehive.com/sanjay">Sanjay KV</a> </h1>
 
 <p align="center">
   <a href="http://sanjaykv.com/">Portfolio</a> -
@@ -8,7 +8,7 @@
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🔭 Ex-Software Engineer at LTI <br>
 ⚡ Check my 🖋 [Website](https://recodehive.com/) or 🌱 [EBook](https://learn.recodehive.com/datascience)<br>
 📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
@@ -23,8 +23,8 @@ Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d6
   <b>📝Curated Articles</b><br>
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
-  Below are the few trending posts.👇<br>
-  📘 [GitHub Cheatsheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
+ Below are the few trending posts.👇<br>
+  📘 [GitHub Cheat sheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
@@ -34,7 +34,6 @@ I write regular blog posts, most of which you will find on my personal website [
 <details>	
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
-
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="160em" src="https://raw.githubusercontent.com/Sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
@@ -48,9 +47,8 @@ I write regular blog posts, most of which you will find on my personal website [
 
 <details>	
   <summary><b>📚Recent Projects</b></summary><br>
-
   ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br>
-  ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
+  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
 
 </details> 
  <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/_sanjayviswa"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
