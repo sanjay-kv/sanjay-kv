@@ -43,11 +43,15 @@ I write regular blog posts, most of which you will find on my personal website [
 </details>
 
  
+<details>	
+  <summary><b>📚Recent Projects</b></summary><br>
+  
+  ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br>
+  ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
 
-<details> <summary><b>📚Recent Projects</b></summary><br> ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br> ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br> </details>
+</details> 
 
-
- <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/_sanjayviswa"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
+ <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/sanjay_k_v"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
 <div align="center">
 
 
