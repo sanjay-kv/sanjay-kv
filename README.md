@@ -10,7 +10,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Ex-Software Engineer at LTI <br>
-⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [EBook](https://learn.recodehive.com/datascience)<br>
+⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
 👯 Looking to collaborate on recodehive.com<br>
 💬 Ask me about SEO/Data Science<br><br>
@@ -39,15 +39,21 @@ I write regular blog posts, most of which you will find on my personal website [
  <img height="160em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
   <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  </a>
 </details>
 
- 
+
+
 <details>	
   <summary><b>📚Recent Projects</b></summary><br>
-  
-  ✨ [Semi Supervised Sequence Learning](https://github.com/sanjay-kv/Semi-supervised-Learning-Project-Proposal)<br>
-  ✨ [Stackoverflow Data Analysis of last 3 years.](https://github.com/Sanjayviswa/Stackoverflow-Analysis/blob/main/readme.md)<br>
+  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
+  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
+
+ ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br>
+
+ ✨ [Opensource contributor @ Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
+
+ ✨ [World happiness Analuysis.](https://github.com/sanjay-kv/World_happiness_Analysis/blob/main/Happiness_Analysis.ipynb)<br>
 
 </details> 
 
