@@ -19,8 +19,8 @@ Languages: <img src="https://camo.githubusercontent.com/95e77c11ae77003f5682f73d
 Frameworks and Libraries: <img src="https://camo.githubusercontent.com/456cc1b98420ee0dede85b58906098d5138923937e981fa2cb52d1ca453ff293/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp; <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
 Tools and Platforms: <img src="https://camo.githubusercontent.com/dc72fe73865526f2b304a96f878f8aa8ee311bf06f498175db3179e35d1e2c71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">&nbsp; <img src="https://camo.githubusercontent.com/247482f492e6ae85ac3ff395730acfdf85d3b98198096e772da9fb315de1f484/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://img.shields.io/badge/-Cloudflare-3E77A7?logo=cloudflare&logoColor=orange&style=flat">&nbsp;<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;<img src="https://img.shields.io/badge/-Postman-127ED2?logo=postman&logoColor=orange&style=flat">&nbsp;<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> <br>
 Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">&nbsp;<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
-
-  <b>📝Curated Articles</b><br>
+<details>	
+  <summary><b>📝Curated Articles</b></summary><br>
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
  Below are the few trending posts.👇<br>
@@ -28,7 +28,7 @@ I write regular blog posts, most of which you will find on my personal website [
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
-
+</details> 
 
 
 <details>	
