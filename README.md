@@ -73,7 +73,7 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
   ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [World happiness Analysis| Dataset visualization](https://github.com/sanjay-kv/World_happiness_Analysis/blob/main/Happiness_Analysis.ipynb)<br>
+  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 </details> 
 
 <!--- Footer Starts - Adding the Social Media Status count-->
