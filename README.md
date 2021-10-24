@@ -22,8 +22,9 @@
 Languages: <img src="https://camo.githubusercontent.com/95e77c11ae77003f5682f73dca573514c73858a237500240ef9661488c13d5a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">&nbsp;
 <img src="https://camo.githubusercontent.com/fda68139579b617afd03239be67e21aa359359164399c01d1ebbfb7db98aff86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d4534384530303f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d303036313841">&nbsp; 
 <img src="https://camo.githubusercontent.com/72b4d41915b3fc041632ccc2a16d19a91bc6532a23763ba33ef1388e8372af11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">&nbsp;
-<img src="https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> &nbsp; <br>
-Frameworks and Libraries: <img src="https://camo.githubusercontent.com/456cc1b98420ee0dede85b58906098d5138923937e981fa2cb52d1ca453ff293/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465">&nbsp;<!--- Frameworks and Libraries goes here -->
+<img src="https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> &nbsp; 
+<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
+Frameworks and Libraries: ><!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
@@ -56,7 +57,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <details>	
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
-   <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+   <img height="150em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="160em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
   <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
