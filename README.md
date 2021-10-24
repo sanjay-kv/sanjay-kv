@@ -19,23 +19,25 @@
 <!--- Adding Tech Stack open Section -->
 
 🛠</g-emoji> **Tech Stack**<br>
-Languages: <img src="https://camo.githubusercontent.com/95e77c11ae77003f5682f73dca573514c73858a237500240ef9661488c13d5a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">&nbsp;
-<img src="https://camo.githubusercontent.com/fda68139579b617afd03239be67e21aa359359164399c01d1ebbfb7db98aff86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d4534384530303f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d303036313841">&nbsp; 
-<img src="https://camo.githubusercontent.com/72b4d41915b3fc041632ccc2a16d19a91bc6532a23763ba33ef1388e8372af11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">&nbsp;
-<img src="https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"> &nbsp; 
+Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
 <img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
-Frameworks and Libraries: ><!--- Frameworks and Libraries goes here -->
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
-Tools and Platforms: <img src="https://camo.githubusercontent.com/dc72fe73865526f2b304a96f878f8aa8ee311bf06f498175db3179e35d1e2c71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">&nbsp; 
-<img src="https://camo.githubusercontent.com/247482f492e6ae85ac3ff395730acfdf85d3b98198096e772da9fb315de1f484/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://img.shields.io/badge/-Cloudflare-3E77A7?logo=cloudflare&logoColor=orange&style=flat">&nbsp;
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Postman-127ED2?logo=postman&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> 
 <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> <br>
-Operating Systems: <img src="https://camo.githubusercontent.com/e6201b8e82c976d652fb60b763fb0b82fa3571abbf10991059b0bd3d88d38020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">&nbsp;<img src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">&nbsp;
+Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
 
 
@@ -58,9 +60,9 @@ I write regular blog posts, most of which you will find on my personal website [
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
    <img height="150em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
- <img height="160em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
-  <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="240em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sanjayviswa&hide=other,text,csv,batchfile,Git Config&layout=compact&theme=github_dark&border_color=21262D" /><br>  </a>
 </details>
