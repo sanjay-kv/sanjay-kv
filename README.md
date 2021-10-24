@@ -1,5 +1,5 @@
 <!--- Body Begins -->
-<h1 align="center"> Hi there 👋, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
