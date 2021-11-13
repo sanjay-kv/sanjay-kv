@@ -14,11 +14,12 @@
 ✨ Ex-Software Engineer at LTI <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Looking to collaborate on recodehive.com<br>
+👯 Join my Opensource community [<re>codehive](https://github.com/Recode-Hive)<br>
 💬 Ask me about SEO/Data Science<br><br>
 <!--- Adding Tech Stack open Section -->
 
-🛠</g-emoji> **Tech Stack**<br>
+<details>	
+ <summary><b>🛠Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -38,6 +39,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
+</details> 
 
 
 <!--- 1st Section on Curated Articles -->
