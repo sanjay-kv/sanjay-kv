@@ -13,9 +13,9 @@
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Ex-Software Engineer at LTI <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to Reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Join my Opensource community [<re>codehive](https://github.com/Recode-Hive)<br>
-💬 Ask me about SEO/Data Science<br><br>
+📫 How to reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
+👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
+💬 Ask me about SEO/Data Science<br>
 <!--- Adding Tech Stack open Section -->
 
 <details>	
@@ -32,10 +32,10 @@ Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> 
-<img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> <br>
+<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
@@ -71,7 +71,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- 3rd Section on Recent Projects -->
 
 <details>	
-  <summary><b>📚Recent Projects</b></summary><br>
+  <b>📚Recent Projects</b><br>
   
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
