@@ -71,13 +71,17 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- 3rd Section on Recent Projects -->
 
 <details>	
-  <summary><b>📚Recent Projects</b></summary><br>
+  <summary><b>📚Recent Projects/Activity</b></summary><br>
   
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
   ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
 </details> 
 
 <!--- Footer Starts - Adding the Social Media Status count-->
