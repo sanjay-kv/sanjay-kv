@@ -80,11 +80,11 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/security-on-github/pull/3) in [sanjay-kv/security-on-github](https://github.com/sanjay-kv/security-on-github)
-2. 🎉 Merged PR [#1](https://github.com/sanjay-kv/security-on-github/pull/1) in [sanjay-kv/security-on-github](https://github.com/sanjay-kv/security-on-github)
-3. 🗣 Commented on [#4](https://github.com/sanjay-kv/security-on-github/issues/4) in [sanjay-kv/security-on-github](https://github.com/sanjay-kv/security-on-github)
-4. 🎉 Merged PR [#5](https://github.com/sanjay-kv/community-starter-kit/pull/5) in [sanjay-kv/community-starter-kit](https://github.com/sanjay-kv/community-starter-kit)
-5. 💪 Opened PR [#5](https://github.com/sanjay-kv/community-starter-kit/pull/5) in [sanjay-kv/community-starter-kit](https://github.com/sanjay-kv/community-starter-kit)
+1. ❗️ Closed issue [#9](https://github.com/sanjay-kv/community-starter-kit/issues/9) in [sanjay-kv/community-starter-kit](https://github.com/sanjay-kv/community-starter-kit)
+2. 🎉 Merged PR [#5](https://github.com/sanjay-kv/community-starter-kit/pull/5) in [sanjay-kv/community-starter-kit](https://github.com/sanjay-kv/community-starter-kit)
+3. 💪 Opened PR [#5](https://github.com/sanjay-kv/community-starter-kit/pull/5) in [sanjay-kv/community-starter-kit](https://github.com/sanjay-kv/community-starter-kit)
+4. 🎉 Merged PR [#3](https://github.com/sanjay-kv/security-on-github/pull/3) in [sanjay-kv/security-on-github](https://github.com/sanjay-kv/security-on-github)
+5. 🎉 Merged PR [#1](https://github.com/sanjay-kv/security-on-github/pull/1) in [sanjay-kv/security-on-github](https://github.com/sanjay-kv/security-on-github)
   <!--END_SECTION:activity-->
 
 </details> 
