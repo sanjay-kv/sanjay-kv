@@ -23,6 +23,8 @@ Gift Link: https://education.github.com/discount_requests/student_application?ut
 
 https://sanjaykv.gumroad.com/l/datasciencebook
 
+https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+
 <details>	
  <summary><b>🛠Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
