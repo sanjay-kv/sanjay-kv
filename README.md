@@ -21,6 +21,8 @@
 
 Gift Link: https://education.github.com/discount_requests/student_application?utm_source=2022-04-08-github-workshop-mubac
 
+https://sanjaykv.gumroad.com/l/datasciencebook
+
 <details>	
  <summary><b>🛠Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
