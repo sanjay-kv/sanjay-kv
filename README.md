@@ -80,8 +80,8 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Twitter-Tweet-Analysis/pull/1) in [sanjay-kv/Twitter-Tweet-Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)
-2. 🎉 Merged PR [#4](https://github.com/sanjay-kv/Web-Scrapping-Project/pull/4) in [sanjay-kv/Web-Scrapping-Project](https://github.com/sanjay-kv/Web-Scrapping-Project)
+1. 💪 Opened PR [#3046](https://github.com/education/GitHubGraduation-2022/pull/3046) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Twitter-Tweet-Analysis/pull/1) in [sanjay-kv/Twitter-Tweet-Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)
 3. 🎉 Merged PR [#2](https://github.com/sanjay-kv/Web-Scrapping-Project/pull/2) in [sanjay-kv/Web-Scrapping-Project](https://github.com/sanjay-kv/Web-Scrapping-Project)
 4. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Web-Scrapping-Project/pull/1) in [sanjay-kv/Web-Scrapping-Project](https://github.com/sanjay-kv/Web-Scrapping-Project)
 5. 💪 Opened PR [#6](https://github.com/sanjay-kv/release-based-workflow/pull/6) in [sanjay-kv/release-based-workflow](https://github.com/sanjay-kv/release-based-workflow)
