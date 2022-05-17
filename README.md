@@ -80,11 +80,11 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/3) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-2. 🗣 Commented on [#3](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/3) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-3. 💪 Opened PR [#3046](https://github.com/education/GitHubGraduation-2022/pull/3046) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Twitter-Tweet-Analysis/pull/1) in [sanjay-kv/Twitter-Tweet-Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)
-5. 💪 Opened PR [#6](https://github.com/sanjay-kv/release-based-workflow/pull/6) in [sanjay-kv/release-based-workflow](https://github.com/sanjay-kv/release-based-workflow)
+1. 🗣 Commented on [#4](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/4) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+2. 💪 Opened PR [#7](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/7) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+3. 🗣 Commented on [#3](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/3) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+4. 🗣 Commented on [#3](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/3) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+5. 💪 Opened PR [#3046](https://github.com/education/GitHubGraduation-2022/pull/3046) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
   <!--END_SECTION:activity-->
 
 </details> 
