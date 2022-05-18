@@ -80,11 +80,11 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/16) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-2. 💪 Opened PR [#16](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/16) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-3. 🗣 Commented on [#2](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/2) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 🗣 Commented on [#6](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/6) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#7](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/7) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+1. 🗣 Commented on [#2](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/2) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+2. 🗣 Commented on [#1](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/1) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+3. 🎉 Merged PR [#16](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/16) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+4. 💪 Opened PR [#16](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/16) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+5. 🗣 Commented on [#2](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/2) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
   <!--END_SECTION:activity-->
 
 </details> 
