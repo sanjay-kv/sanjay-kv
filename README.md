@@ -80,11 +80,11 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sanjay-kv/github-card-template/pull/1) in [sanjay-kv/github-card-template](https://github.com/sanjay-kv/github-card-template)
-2. 💪 Opened PR [#1](https://github.com/sanjay-kv/github-card-template/pull/1) in [sanjay-kv/github-card-template](https://github.com/sanjay-kv/github-card-template)
-3. 🎉 Merged PR [#1](https://github.com/sanjay-kv/sanjay-kv/pull/1) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-4. 💪 Opened PR [#1](https://github.com/sanjay-kv/sanjay-kv/pull/1) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-5. 🗣 Commented on [#2](https://github.com/sanjay-kv/Stackoverflow-Analysis/issues/2) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+1. 🎉 Merged PR [#17](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/17) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+2. 💪 Opened PR [#17](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/17) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+3. 🎉 Merged PR [#1](https://github.com/sanjay-kv/github-card-template/pull/1) in [sanjay-kv/github-card-template](https://github.com/sanjay-kv/github-card-template)
+4. 💪 Opened PR [#1](https://github.com/sanjay-kv/github-card-template/pull/1) in [sanjay-kv/github-card-template](https://github.com/sanjay-kv/github-card-template)
+5. 🎉 Merged PR [#1](https://github.com/sanjay-kv/sanjay-kv/pull/1) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
   <!--END_SECTION:activity-->
 
 </details> 
