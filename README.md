@@ -80,11 +80,11 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sanjay-kv/sanjay-kv/pull/2) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#2](https://github.com/sanjay-kv/sanjay-kv/pull/2) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Text-Classification/pull/1) in [sanjay-kv/Text-Classification](https://github.com/sanjay-kv/Text-Classification)
-4. 💪 Opened PR [#1](https://github.com/sanjay-kv/Text-Classification/pull/1) in [sanjay-kv/Text-Classification](https://github.com/sanjay-kv/Text-Classification)
-5. 🎉 Merged PR [#17](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/17) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
+1. 🎉 Merged PR [#2](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/2) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
+2. 💪 Opened PR [#2](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/2) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
+3. 🎉 Merged PR [#2](https://github.com/sanjay-kv/sanjay-kv/pull/2) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
+4. 💪 Opened PR [#2](https://github.com/sanjay-kv/sanjay-kv/pull/2) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
+5. 🎉 Merged PR [#1](https://github.com/sanjay-kv/Text-Classification/pull/1) in [sanjay-kv/Text-Classification](https://github.com/sanjay-kv/Text-Classification)
   <!--END_SECTION:activity-->
 
 </details> 
