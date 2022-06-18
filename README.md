@@ -18,7 +18,7 @@
 💬 Ask me about SEO/Data Science<br>
 <!--- Adding Tech Stack open Section -->
 
-<details>	
+
  <summary><b>🛠Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
@@ -39,20 +39,17 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
-</details> 
+
 
 
 <!--- 1st Section on Curated Articles -->
-<details>	
   <summary><b>📝Curated Articles</b></summary><br>
-
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
  Below are the few trending posts.👇<br>
   📘 [GitHub Cheat sheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
-</details> 
 
 
 <!--- 2nd Section on GitHub Analytics -->
