@@ -68,9 +68,9 @@ I write regular blog posts, most of which you will find on my personal website [
 
 <!--- 3rd Section on Recent Projects -->
 
-<📚Recent Projects/Activity>	
-  <summary><b>📚Recent Projects/Activity</b></summary><br>
-  
+  <details>	
+    <summary><b>📚Recent Projects/Activity</b></summary><br>
+
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
@@ -84,8 +84,7 @@ I write regular blog posts, most of which you will find on my personal website [
 4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
 5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
   <!--END_SECTION:activity-->
-
-</details> 
+  </details> 
 
 <!--- Footer Starts - Adding the Social Media Status count-->
 
