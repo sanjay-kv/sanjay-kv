@@ -65,12 +65,10 @@ I write regular blog posts, most of which you will find on my personal website [
   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
      
-     <br>  </a>
-   
 
 <!--- 3rd Section on Recent Projects -->
 
-<details>	
+<📚Recent Projects/Activity>	
   <summary><b>📚Recent Projects/Activity</b></summary><br>
   
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
