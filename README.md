@@ -1,3 +1,5 @@
+<!-- Profile Views -->
+[![](https://visitcount.itsvg.in/api?id=sanjay-kv&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--- Body Begins -->
 <h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> </h1>
 
