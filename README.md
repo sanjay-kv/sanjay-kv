@@ -1,9 +1,3 @@
-<div align="right">
-    <a href="https://visitcount.itsvg.in/api?id=sanjay-kv&icon=0&color=0">
-        <img src="https://visitcount.itsvg.in/api?id=sanjay-kv&icon=0&color=0" alt="visit count">
-    </a>
-</div>
-
 <h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
@@ -13,7 +7,8 @@
   <a href="https://topmate.io/sanjaykv">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a></p>
+  <a href="https://topmate.io/sanjaykv/">Contact me</a> -
+</p> 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -95,8 +90,6 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- Footer Starts - Adding the Social Media Status count-->
 
  <p align="left">  <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a><a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
-
-<div align="center">
 
 
 #### Show some ❤️ by starring some of the repositories!
