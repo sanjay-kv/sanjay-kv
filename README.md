@@ -15,7 +15,7 @@
 ✨ Ex-Software Engineer at LTI <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
+👯 Join my opensource community [recodehive](https://github.com/Recodehive)<br>
 💬 Ask me about SEO/Data Science<br>
 <!--- Adding Tech Stack open Section -->
 
