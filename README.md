@@ -91,7 +91,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
  <p align="left">  
 <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>&nbsp;&nbsp;</a>
+<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?style=social"></a>
 <a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 <a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
