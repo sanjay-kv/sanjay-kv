@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Sanjay</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="http://sanjaykv.com/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://topmate.io/sanjaykv">Twitter</a> -
+  <a href="https://x.com/sanjay_kv_">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me</a> -
@@ -12,11 +12,11 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Ex-Software Engineer at LTI <br>
+✨ Data Engineer | Prev. PM @girlscript <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Join my opensource community [recodehive](https://github.com/Recodehive)<br>
-💬 Ask me about SEO/Data Science<br>
+📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
+👯 Join my opensource community. [recodehive](https://github.com/Recodehive)<br>
+💬 Ask me about SEO/Data Science.<br>
 <!--- Adding Tech Stack open Section -->
 
 
@@ -61,10 +61,8 @@ I write regular blog posts, most of which you will find on my personal website [
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+<br>
      
 
 <!--- 3rd Section on Recent Projects -->
@@ -95,12 +93,8 @@ I write regular blog posts, most of which you will find on my personal website [
 <a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 <a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
-<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
-</p>
+<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a></p>
 
-
-<p align="center"><b> Show some ❤️ by starring some of the repositories!</p>
-</div>
-
+<p align="center"><b> Show some ❤️ by starring some of the repositories!</p> </div>
 <!--- Footer End -->
 <!--- Body End -->
