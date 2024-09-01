@@ -7,7 +7,7 @@
   <a href="https://x.com/sanjay_kv_">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a> -
+  <a href="https://topmate.io/sanjaykv/">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
@@ -60,8 +60,9 @@ I write regular blog posts, most of which you will find on my personal website [
 
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+
 <br>
      
 
