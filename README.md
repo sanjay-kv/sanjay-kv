@@ -22,7 +22,7 @@
 
 
 <details>	
- <summary><b>🛠Tech Stack</b></summary><br>
+ <summary><b>🛠Tech Stack/ Certifications</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -41,7 +41,13 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
+
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+
+</div>
 </details> 
 
 
@@ -62,14 +68,14 @@ I write regular blog posts, most of which you will find on my personal website [
 <a href="https://github.com/sanjay-kv">
     <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
 <br>
      
 
 <!--- 3rd Section on Recent Projects -->
 
   <details>	
-    <summary><b>📚Recent Projects/Activity</b></summary><br>
+    <summary><b>📚Recent Projects/ Activity</b></summary><br>
 
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
@@ -103,6 +109,6 @@ I write regular blog posts, most of which you will find on my personal website [
 -->
 <p align="center">
 Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!</p> </div>
+<b> Show some ❤️ by starring some of the repositories!.</p> </div>
 <!--- Footer End -->
 <!--- Body End -->
