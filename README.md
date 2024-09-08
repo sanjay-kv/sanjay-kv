@@ -56,7 +56,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
  Below are the few trending posts.👇<br>
-  📘 [GitHub Cheat sheet | Complete Tutorials](https://recodehive.com/github-tutorials/)<br>
+  📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
@@ -66,11 +66,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
   <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
-<<<<<<< HEAD
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-=======
- <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
->>>>>>> 4c1bbe1330d7a77e3e63ecca6b22393f38fd26e1
     <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
 <br>
      
