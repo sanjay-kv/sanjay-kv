@@ -8,7 +8,7 @@
   <a href="https://recodehive.com/">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me</a> 
-</p> 
+</p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -20,9 +20,8 @@
 <!--- Adding Tech Stack open Section -->
 
 
-
 <details>	
- <summary><b>🛠Tech Stack/ Certifications</b></summary><br>
+ <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -52,7 +51,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 
 <!--- 1st Section on Curated Articles -->
-<b>📝Curated Articles</b><br>
+<b>📝 Curated Articles</b><br>
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
  Below are the few trending posts.👇<br>
@@ -64,7 +63,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- 2nd Section on GitHub Analytics -->
 
 
-  <summary><b>⚙️GitHub Analytics</b></summary>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
     <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
@@ -74,7 +73,7 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- 3rd Section on Recent Projects -->
 
   <details>	
-    <summary><b>📚Recent Projects/ Activity</b></summary><br>
+    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
@@ -90,6 +89,13 @@ I write regular blog posts, most of which you will find on my personal website [
 5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
   <!--END_SECTION:activity-->
   </details> 
+
+  <details>	
+    <summary><b>📈 Get my Code stats</b></summary><br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+   </details> 
 
 <!--- Footer Stats - Adding the Social Media Status count-->
  <p align="left">  
