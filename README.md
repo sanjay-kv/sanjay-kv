@@ -59,7 +59,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 
 <!--- 1st Section on Curated Articles -->
-<b>📝 Curated Articles</b><br>
+<b>📝 Curated Articles</b>
+<br>
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)<br>
  Below are the few trending posts.👇<br>
