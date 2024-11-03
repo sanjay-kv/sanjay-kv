@@ -7,7 +7,7 @@
   <a href="https://x.com/sanjay_kv_">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a> 
+  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
