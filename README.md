@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
+  <a href="http://sanjaykv.com/">Portfolios</a> -
   <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
   <a href="https://x.com/sanjay_kv_">Twitter</a> -
   <a href="https://recodehive.com/">Website</a> -
