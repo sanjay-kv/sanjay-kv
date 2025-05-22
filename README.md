@@ -20,8 +20,7 @@
 <!--- Adding Tech Stack open Section -->
 
 
-<details>	
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+<b>🛠 Tech Stack/ Certifications</b><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -38,9 +37,6 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
 <!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
-Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;<br>
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -55,12 +51,13 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
 </div>
-</details> 
 
 
+<details>	
+ <summary>
 <!--- 1st Section on Curated Articles -->
-<b>📝 Curated Articles</b>
-<br>
+<b>📝 Curated Articles</b></summary><br>
+
 
 I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)
 <br>
@@ -69,7 +66,7 @@ I write regular blog posts, most of which you will find on my personal website [
   📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
   📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
 ➡️ [more blog posts...](https://recodehive.com/)
-
+</details> 
 <!--- 2nd Section on GitHub Analytics -->
 
 
