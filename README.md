@@ -178,7 +178,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 -->
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv/232175/pay">Contact Details</a><br>
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv">Contact Details</a><br>
 <b> Show some ❤️ by starring some of the repositories!.</p> </div>
 <!--- Footer End -->
 <!--- Body End -->
