@@ -100,7 +100,7 @@ I write regular blog posts, most of which you will find on my personal website [
   <details>	
     <summary><b>📈 Get my Code stats</b></summary><br>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)-->
 
 **I'm an Early 🐤** 
 
