@@ -5,7 +5,7 @@
   <a href="http://sanjaykv.com/">Portfolios</a> -
   <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
   <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="https://recodehive.com/">Website</a> -
+  <a href="#">Website</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
 </p>
@@ -13,14 +13,14 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Data Engineer | Prev. PM @girlscript <br>
-⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
+⚡ Check my ✨ [Website](#) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
 📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
-👯 Join my opensource community [recodehive](https://github.com/Recodehive)<br>
+👯 Join my opensource community [recodehive](https://github.com/recodehive)<br>
 💬 Ask me about SEO/Data Science.<br>
 <!--- Adding Tech Stack open Section -->
 
 
-<b>🛠 Tech Stack/ Certifications</b><br>
+<b>🛠 Tech Stack/ Certifications</b><br><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -36,7 +36,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> -->
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
