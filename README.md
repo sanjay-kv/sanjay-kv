@@ -158,7 +158,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
-
+[![Sanjay Viswanathan profile views](https://u8views.com/api/v1/github/profiles/30715153/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjay-kv)
 <!--END_SECTION:waka-->
    </details> 
 
