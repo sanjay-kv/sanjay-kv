@@ -70,11 +70,13 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--- 2nd Section on GitHub Analytics -->
 
 
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+  <img style="height: 250px; width: 48%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V GitHub Profile Details" />
+  <img style="height: 200px; width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V GitHub Stats" />
+</a>
 <br>
+
      
 
 <!--- 3rd Section on Recent Projects -->
