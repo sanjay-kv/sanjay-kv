@@ -1,21 +1,21 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://dev.recodehive.com/link">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolios</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="#">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
+  <a href="https://dev.recodehive.com/link">LinkedIn</a> - 
+  <a href="https://dev.recodehive.com/tweet">Twitter</a> -
+  <a href="https://dev.recodehive.com/webz">Website</a> -
+  <a href="https://learn.recodehive.com/crowds">Google Featured</a> -
+  <a href="https://blog.recodehive.com/topmate">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Data Engineer | Prev. PM @girlscript <br>
-⚡ Check my ✨ [Website](#) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
-👯 Join my opensource community [recodehive](https://github.com/recodehive)<br>
+⚡ Check my ✨ [Website](https://dev.recodehive.com/webs) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
+📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
+👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
 💬 Ask me about SEO/Data Science.<br>
 <!--- Adding Tech Stack open Section -->
 
@@ -59,13 +59,13 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <b>📝 Curated Articles</b></summary><br>
 
 
-I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)
+I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://learn.recodehive.com/git-tutorial)
 <br>
  Below are the few trending posts.👇<br>
-  📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
-  📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-  📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-➡️ [more blog posts...](https://recodehive.com/)
+  📘 [GitHub Cheat sheet | Complete Tutorials.](https://learn.recodehive.com/git-tutorial)<br>
+  📒 [Google Student Ambassdor Program 2025](https://www.recodehive.com/docs/docs/google-campus-ambassador-part-1)<br>
+  📙 [Develop SQL Skills, SQL for Dummies](https://www.recodehive.com/docs/sql/intro-sql)<br>
+➡️ [more blog posts...](https://dev.recodehive.com/webz)
 </details> 
 <!--- 2nd Section on GitHub Analytics -->
   <details>	
@@ -82,7 +82,7 @@ I write regular blog posts, most of which you will find on my personal website [
   ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
+  ✨ [Opensource contributor @recodehive.](https://github.com/recodehive)<br>
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
@@ -175,7 +175,7 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 -->
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://topmate.io/sanjaykv">Contact Details</a><br>
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://event.recodehive.com/git">Contact Details</a><br>
 <b> Show some ❤️ by starring some of the repositories!.</p> </div>
 <!--- Footer End -->
 <!--- Body End -->
