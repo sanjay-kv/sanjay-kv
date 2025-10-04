@@ -165,9 +165,8 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 <a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
 <a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
 <a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
-<a href=""><img src="https://discord.com/api/guilds/1231112132595028008/widget.png?style=shield"></a>
 <a href="https://discord.gg/cFvgmmrs">
-  <img src="https://discord.com/api/guilds/YOUR_SERVER_ID/widget.png?style=shield">
+  <img src="https://discord.com/api/guilds/1231112132595028008/widget.png?style=shield">
 </a>
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 <a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
