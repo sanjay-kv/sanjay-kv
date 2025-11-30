@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://dev.recodehive.com/webs">Portfolios</a> -
   <a href="https://dev.recodehive.com/link">LinkedIn</a> - 
-  <a href="https://dev.recodehive.com/tweet">Twitter</a> -
+  <a href="https://dev.recodehive.com/tweet">Twitter</a> - 
   <a href="https://dev.recodehive.com/webz">Website</a> -
   <a href="https://learn.recodehive.com/crowds">Google Featured</a> -
   <a href="https://blog.recodehive.com/topmate">Contact me.</a> 
