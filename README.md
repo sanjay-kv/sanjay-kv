@@ -97,63 +97,116 @@ I write regular blog posts, most of which you will find on my personal website [
   <details>	
     <summary><b>📈 Get my Code stats</b></summary><br>
 <!--START_SECTION:waka-->
-<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)-->
 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+```markdown
+$ whoami
 ```
-📅 **I'm Most Productive on Tuesday** 
+# Sanjay — Bridging Data Strategy & Program Execution
 
-```text
-Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+```
+sanjay@localhost:~$ cat /etc/system-release
+Focus: Technical Program Management & Business Analysis
+[cite_start]Status: Open for opportunities (Sydney / Remote) [cite: 2]
+[cite_start]Visa:   Subclass 485 (Valid until Sept 19, 2028) [cite: 69]
 ```
 
+[cite_start]I am an Analyst and Program Lead with over 5 years of experience delivering AI-powered, consumer-facing products[cite: 4]. [cite_start]I specialize in translating product roadmaps into execution, managing cross-functional dependencies, and ensuring technical initiatives deliver actual business value[cite: 11, 14, 53].
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+## `$ systemctl status career-impact`
 
-💬 Programming Languages: 
-JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
-CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-gssoc-website-new        8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Socials-Winter-Of-Code   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Frontend - Copy          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Error-frontend           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Backend                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-
-💻 Operating System: 
-Windows                  20 hrs 11 mins      █████████████████████████   100.00 % 
+```
+● tpm-ba-execution.service - Program Governance & Analysis
+     Active: active (running)
+     Phase: Advanced Program Delivery & Stakeholder Alignment
+   [cite_start]Uptime: 5+ Years Professional Experience [cite: 4]
 ```
 
-**I Mostly Code in JavaScript** 
+### Strategic Impact Roadmap
 
-```text
-JavaScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+| Phase | Focus Area | Experience | Light | Status |
+|:------|:-------|:-----:|:-----:|:-------|
+| **PROGRAM OPS** | **Scale & Governance** | | | |
+| | [cite_start]Managing Global Open-Source Programs (45k+ Devs) [cite: 32] | 2 yrs | 🔵 | `▓▓▓▓▓▓▓▓▓▓` Complete |
+| | [cite_start]Scaling Google AI Student Ambassador (1,500+ Unis) [cite: 9] | 1 yr | 🔵 | `▓▓▓▓▓▓▓▓▓▓` Complete |
+| | [cite_start]Driving Product Workstreams & Roadmap Execution [cite: 14] | 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
+| **ANALYSIS** | **Requirements & GTM** | | | |
+| | [cite_start]BRD/FRD Documentation & Requirement Gathering [cite: 52, 53]| 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
+| | [cite_start]Process Mapping & Architectural Diagrams (Whimsical) [cite: 21, 54] | 3 yrs | 🟢 | `▓▓▓▓▓▓▓▓░░` Running |
+| | [cite_start]Stakeholder Management & Executive Reporting [cite: 5, 13] | 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
+| **DATA STRATEGY** | **Insights & BI** | | | |
+| | [cite_start]BI Operations & Data Visualization (Power BI) [cite: 13, 52] | 3 yrs | 🟢 | `▓▓▓▓▓▓▓░░░` Running |
+| | [cite_start]GTM Strategy & Analytical Insight Delivery [cite: 12, 22] | 2 yrs | 🟢 | `▓▓▓▓▓▓▓░░░` Running |
+
+> 🟢 Running &nbsp; 🟡 Queued &nbsp; 🔵 Complete &nbsp; ⚪ Pending
+
+---
+
+## `$ cat /proc/professional-roadmap`
+
+```
+  STRATEGY          DOCUMENTATION        GOVERNANCE          EXECUTION
+┌────────────┐    ┌────────────┐    ┌────────────┐    ┌────────────┐
+│  ROADMAP   │──▶ │ REQUIREMENT│──▶ │    RISK    │──▶ │  PROGRAM   │
+│ ALIGNMENT  │    │ GATHERING  │    │ MITIGATION │    │  DELIVERY  │
+│            │    │            │    │            │    │            │
+│ GTM Plans  │    │ BRD / FRD  │    │ RAID Logs  │    │ Feature Ops│
+│ KPI Scoping│    │ User Story │    │ Dependency │    │ Performance│
+│ Budgeting  │    │ Diagrams   │    │ Governance │    │ Scaling    │
+└─────┬──────┘    └────────────┘    └────────────┘    └────────────┘
+      │
+   [HERE]
+```
+
+---
+
+## `$ kubectl get core-competencies`
+
+#### Management & Analysis Stack
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder-Management-4EAA25?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Whimsical](https://img.shields.io/badge/Whimsical-2496ED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+#### Technical Literacy (Bridging the Gap)
+
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infra-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![API Strategy](https://img.shields.io/badge/API_Strategy-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AI/ML Program](https://img.shields.io/badge/AI_Governance-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Expert-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## `$ ls ~/impact-projects`
+
+| Project | Role | Outcome |
+|:-----------|:--:|:------------|
+| [**Google AI Scaling**](https://linkedin.com/in/sanjay-k-v) | TPM | [cite_start]Activated 4M+ Gemini trials across 1,500+ universities [cite: 9] |
+| [**Girlscript Open Source**](https://github.com/sanjay-kv) | TPM | [cite_start]Managed 31K+ PRs and scaled community to 70k members [cite: 32, 34] |
+| [**Recode Hive**](https://github.com/sanjay-kv) | Founder | [cite_start]Led 50+ cross-functional initiatives for 12,000+ learners [cite: 41, 43] |
+| [**Operational Efficiency**](https://github.com/sanjay-kv) | Analyst | [cite_start]Reduced overhead by 35% through data-informed process mapping [cite: 19] |
+
+---
+
+## `$ tail -1 /var/log/current-focus.log`
+
+```
+🟢 [2026-05-05] Pivot: Leveraging 5+ years of data-heavy project experience for TPM / BA roles in Sydney.
+```
+
+---
+
+---
+
+```
+$ uptime
+5 years of bridging technical gaps. [cite_start]Focused on program excellence. [cite: 4]
 ```
 [![Sanjay Viswanathan profile views](https://u8views.com/api/v1/github/profiles/30715153/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjay-kv)
 <!--END_SECTION:waka-->
