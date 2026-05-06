@@ -99,116 +99,241 @@ I write regular blog posts, most of which you will find on my personal website [
 <!--START_SECTION:waka-->
 
 ---
-
-```markdown
+```
 $ whoami
 ```
-# Sanjay — Bridging Data Strategy & Program Execution
+# [Your Name] — Transitioning from Data Engineer to Business Analyst
 
 ```
-sanjay@localhost:~$ cat /etc/system-release
-Focus: Technical Program Management & Business Analysis
-[cite_start]Status: Open for opportunities (Sydney / Remote) [cite: 2]
-[cite_start]Visa:   Subclass 485 (Valid until Sept 19, 2028) [cite: 69]
+user@localhost:~$ cat /etc/system-release
+Background: Data Engineering
+Target:     Business Analyst / Technical Program Manager
+Status:     Transition in progress
+Started:    From engineer to strategist
 ```
 
-[cite_start]I am an Analyst and Program Lead with over 5 years of experience delivering AI-powered, consumer-facing products[cite: 4]. [cite_start]I specialize in translating product roadmaps into execution, managing cross-functional dependencies, and ensuring technical initiatives deliver actual business value[cite: 11, 14, 53].
+I'm not a BA yet. This GitHub is where I'm becoming one — every framework learned, every requirements doc written, every stakeholder scenario practiced, documented in real time.
 
 ---
 
-## `$ systemctl status career-impact`
+## `$ systemctl status ba-transition`
 
 ```
-● tpm-ba-execution.service - Program Governance & Analysis
-     Active: active (running)
-     Phase: Advanced Program Delivery & Stakeholder Alignment
-   [cite_start]Uptime: 5+ Years Professional Experience [cite: 4]
+● ba-transition.service - Data Engineer → Business Analyst Transformation
+     Active: active (running) since Week 1
+      Phase: 1/4 — BA Foundations & Business Acumen
+   Duration: Week 1 of 4
 ```
 
-### Strategic Impact Roadmap
+### Transition Progress
 
-| Phase | Focus Area | Experience | Light | Status |
-|:------|:-------|:-----:|:-----:|:-------|
-| **PROGRAM OPS** | **Scale & Governance** | | | |
-| | [cite_start]Managing Global Open-Source Programs (45k+ Devs) [cite: 32] | 2 yrs | 🔵 | `▓▓▓▓▓▓▓▓▓▓` Complete |
-| | [cite_start]Scaling Google AI Student Ambassador (1,500+ Unis) [cite: 9] | 1 yr | 🔵 | `▓▓▓▓▓▓▓▓▓▓` Complete |
-| | [cite_start]Driving Product Workstreams & Roadmap Execution [cite: 14] | 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
-| **ANALYSIS** | **Requirements & GTM** | | | |
-| | [cite_start]BRD/FRD Documentation & Requirement Gathering [cite: 52, 53]| 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
-| | [cite_start]Process Mapping & Architectural Diagrams (Whimsical) [cite: 21, 54] | 3 yrs | 🟢 | `▓▓▓▓▓▓▓▓░░` Running |
-| | [cite_start]Stakeholder Management & Executive Reporting [cite: 5, 13] | 5 yrs | 🟢 | `▓▓▓▓▓▓▓▓▓░` Running |
-| **DATA STRATEGY** | **Insights & BI** | | | |
-| | [cite_start]BI Operations & Data Visualization (Power BI) [cite: 13, 52] | 3 yrs | 🟢 | `▓▓▓▓▓▓▓░░░` Running |
-| | [cite_start]GTM Strategy & Analytical Insight Delivery [cite: 12, 22] | 2 yrs | 🟢 | `▓▓▓▓▓▓▓░░░` Running |
+| Phase | Module | Week | Light | Status |
+|:------|:-------|:----:|:-----:|:-------|
+| **WEEK 1** | **BA Foundations & Business Acumen** | | | |
+| | What BAs Actually Do in Tech | 1 | 🟢 | `▓░░░░░░░░░` Running |
+| | Business Acumen & Financial Literacy | 1 | ⚪ | `░░░░░░░░░░` Pending |
+| | Elicitation Techniques Deep Dive | 1 | ⚪ | `░░░░░░░░░░` Pending |
+| **WEEK 2** | **Requirements Engineering** | | | |
+| | BRD Writing & SMART Requirements | 2 | ⚪ | `░░░░░░░░░░` Pending |
+| | Stakeholder Management & RACI | 2 | ⚪ | `░░░░░░░░░░` Pending |
+| | Data Analysis for BA (SQL, BI Tools) | 2 | ⚪ | `░░░░░░░░░░` Pending |
+| **WEEK 3** | **Process Modeling, Agile & Tools** | | | |
+| | BPMN 2.0 & Swim Lane Diagrams | 3 | ⚪ | `░░░░░░░░░░` Pending |
+| | Agile BA — Scrum & Backlog Management | 3 | ⚪ | `░░░░░░░░░░` Pending |
+| | Tools Hands-On Lab (Jira, Confluence, Lucidchart) | 3 | ⚪ | `░░░░░░░░░░` Pending |
+| | Build BA Portfolio on GitHub | 3 | ⚪ | `░░░░░░░░░░` Pending |
+| **WEEK 4** | **Senior-Level Skills & Interview Readiness** | | | |
+| | Business Case Writing & ROI Analysis | 4 | ⚪ | `░░░░░░░░░░` Pending |
+| | STAR Interview Stories (12 scenarios) | 4 | ⚪ | `░░░░░░░░░░` Pending |
+| | Resume & LinkedIn Reframe | 4 | ⚪ | `░░░░░░░░░░` Pending |
+| | Apply to 20+ Targeted Roles | 4 | ⚪ | `░░░░░░░░░░` Pending |
 
 > 🟢 Running &nbsp; 🟡 Queued &nbsp; 🔵 Complete &nbsp; ⚪ Pending
 
 ---
 
-## `$ cat /proc/professional-roadmap`
+## `$ cat /proc/roadmap`
 
 ```
-  STRATEGY          DOCUMENTATION        GOVERNANCE          EXECUTION
-┌────────────┐    ┌────────────┐    ┌────────────┐    ┌────────────┐
-│  ROADMAP   │──▶ │ REQUIREMENT│──▶ │    RISK    │──▶ │  PROGRAM   │
-│ ALIGNMENT  │    │ GATHERING  │    │ MITIGATION │    │  DELIVERY  │
-│            │    │            │    │            │    │            │
-│ GTM Plans  │    │ BRD / FRD  │    │ RAID Logs  │    │ Feature Ops│
-│ KPI Scoping│    │ User Story │    │ Dependency │    │ Performance│
-│ Budgeting  │    │ Diagrams   │    │ Governance │    │ Scaling    │
-└─────┬──────┘    └────────────┘    └────────────┘    └────────────┘
-      │
-   [HERE]
+   WEEK 1              WEEK 2              WEEK 3              WEEK 4
+ ┌────────────┐      ┌────────────┐      ┌────────────┐      ┌────────────┐
+ │     BA     │─────▶│REQUIREMENTS│─────▶│  PROCESS   │─────▶│  SENIOR    │
+ │FOUNDATIONS │      │ENGINEERING │      │  MODELING  │      │  SKILLS &  │
+ │            │      │            │      │  & AGILE   │      │ INTERVIEW  │
+ │ BA in Tech │      │ BRD/FRS    │      │ BPMN 2.0   │      │ READINESS  │
+ │ Biz Acumen │      │ User Stories│     │ Scrum/Agile│      │ Business   │
+ │ Elicitation│      │ Stakeholders│     │ Jira/Conf. │      │ Case + ROI │
+ │ OKR / KPI  │      │ Data for BA│      │ Portfolio  │      │ STAR Stories│
+ └─────┬──────┘      └────────────┘      └────────────┘      └────────────┘
+       │
+    [HERE]
 ```
 
 ---
 
-## `$ kubectl get core-competencies`
+## `$ kubectl get skills --current`
 
-#### Management & Analysis Stack
+#### DE Skills I'm Bringing In
 
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### BA Skills I'm Building
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder-Management-4EAA25?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Whimsical](https://img.shields.io/badge/Whimsical-2496ED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-#### Technical Literacy (Bridging the Gap)
-
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infra-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![API Strategy](https://img.shields.io/badge/API_Strategy-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AI/ML Program](https://img.shields.io/badge/AI_Governance-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Expert-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6D00?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
 
 ---
 
-## `$ ls ~/impact-projects`
+## `$ cat /proc/my-unfair-advantage`
 
-| Project | Role | Outcome |
+```
+Most BAs have zero technical depth.
+I have what they don't. This is the pitch.
+```
+
+| My DE Skill | Business Value as a BA |
+|:---|:---|
+| Data pipeline design | Write requirements engineers actually respect — no back-and-forth |
+| SQL & data modeling | Validate every data assumption a stakeholder makes (they're usually wrong) |
+| ETL / data flow knowledge | Instantly assess technical feasibility of any business request |
+| Root cause analysis | Identify *why* a metric is moving, not just that it moved |
+| Cross-team engineering experience | Speak both languages — business and technical — without a translator |
+| Cloud platform familiarity | Data governance, compliance & architecture requirements are second nature |
+
+---
+
+## `$ ls ~/repos`
+
+| Repository | | Description |
 |:-----------|:--:|:------------|
-| [**Google AI Scaling**](https://linkedin.com/in/sanjay-k-v) | TPM | [cite_start]Activated 4M+ Gemini trials across 1,500+ universities [cite: 9] |
-| [**Girlscript Open Source**](https://github.com/sanjay-kv) | TPM | [cite_start]Managed 31K+ PRs and scaled community to 70k members [cite: 32, 34] |
-| [**Recode Hive**](https://github.com/sanjay-kv) | Founder | [cite_start]Led 50+ cross-functional initiatives for 12,000+ learners [cite: 41, 43] |
-| [**Operational Efficiency**](https://github.com/sanjay-kv) | Analyst | [cite_start]Reduced overhead by 35% through data-informed process mapping [cite: 19] |
+| [`ba-transition`](https://github.com/) | 🟢 | 4-week BA learning plan, practice BRDs, process diagrams, and case studies |
+| `ba-portfolio` | ⚪ | Real BA artifacts — BRDs, user stories, BPMN diagrams, business cases |
+| `stakeholder-scenarios` | ⚪ | STAR interview stories, conflict scenarios, and executive briefs |
+| `data-analysis-for-ba` | ⚪ | SQL practice sets and BI dashboard requirements written as a BA |
+
+---
+
+## `$ cat /var/log/artifacts-in-progress.log`
+
+I'm building real BA artifacts — not just notes, but deliverables I could hand to an engineering team tomorrow.
+
+**What I'm producing:**
+- Business Requirements Documents (BRD) — written to BABOK standards
+- BPMN 2.0 process flows — AS-IS and TO-BE states
+- User stories with Gherkin acceptance criteria
+- Stakeholder maps using the Power/Interest grid
+- Business cases with ROI and cost-benefit analysis
+- Executive 1-pagers for C-suite communication
+
+### Artifacts Published
+
+<!-- ARTIFACT-LIST:START -->
+*First artifacts in progress — portfolio building now.*
+<!-- ARTIFACT-LIST:END -->
+
+---
+
+## `$ cat /etc/certifications.conf`
+
+```
+Priority queue for certifications — ordered by ROI for this transition:
+```
+
+| Priority | Certification | Body | Timeline | Status |
+|:---:|:---|:---|:---:|:---:|
+| 🥇 | PMI-PBA (Professional in Business Analysis) | PMI | 3–4 months | ⚪ Planned |
+| 🥈 | CSPO (Certified Scrum Product Owner) | Scrum Alliance | 2 days + study | ⚪ Planned |
+| 🥉 | CBAP (Certified BA Professional) | IIBA | After 12 months exp | ⚪ Future |
+| 4th | PMI-ACP (Agile Certified Practitioner) | PMI | 2–3 months | ⚪ Future |
+
+> ⚠️ CBAP requires 7,500 hours of BA experience. Targeting PMI-PBA first.
+
+---
+
+## `$ cat /etc/target-roles.conf`
+
+```
+Honest salary targets based on U.S. market 2024–2025 data.
+DE background = competitive advantage for technical BA and TPM tracks.
+```
+
+| Role | Experience Needed | Base Salary Range | Fit Score |
+|:---|:---|:---|:---:|
+| Technical Business Analyst | 3–5 years | $110K–$145K | ⭐⭐⭐⭐⭐ |
+| Business Analyst (Mid) | 2–4 years | $85K–$115K | ⭐⭐⭐⭐⭐ |
+| Technical Program Manager | 4–7 years | $130K–$180K | ⭐⭐⭐⭐ |
+| Product Analyst | 2–4 years | $95K–$135K | ⭐⭐⭐⭐ |
+| **Senior Business Analyst** | **5–7 years** | **$115K–$160K** | **12–18 months away** |
+
+---
+
+## `$ journalctl --learning-stack --latest`
+
+**Currently Learning:**
+- BABOK v3 — Chapters 1, 2, 5 (not the whole book — that's a trap)
+- Elicitation & collaboration techniques
+- Business acumen: OKRs, KPIs, unit economics, financial literacy
+- BPMN 2.0 process notation
+
+**Study Resources:**
+- *Business Analysis Body of Knowledge (BABOK v3)* — IIBA
+- *User Story Mapping* — Jeff Patton
+- *Writing Effective Use Cases* — Alistair Cockburn
+- [BA Mentor — YouTube](https://youtube.com) — Adriana Beal's channel
+- [Microsoft Learn — Power BI](https://learn.microsoft.com) — free
 
 ---
 
 ## `$ tail -1 /var/log/current-focus.log`
 
 ```
-🟢 [2026-05-05] Pivot: Leveraging 5+ years of data-heavy project experience for TPM / BA roles in Sydney.
+🟢 [Week 1] — BA Foundations & Business Acumen
+   Understanding BA role in tech, DE→BA gap analysis,
+   financial literacy basics, elicitation techniques
+```
+*This section updates weekly.*
+
+---
+
+## `$ cat /etc/12-month-target.conf`
+
+```
+4 weeks is the start, not the destination.
+```
+
+```
+Month 1   → Land first BA or Technical BA role (contract counts)
+Month 2–3 → Get domain expertise in target industry vertical
+Month 3–6 → Lead first full requirements cycle end-to-end
+Month 4   → Begin PMI-PBA study
+Month 6   → Deliver measurable business impact — document with numbers
+Month 8   → Start applying for Senior BA roles (internal or external)
+Month 9   → Pass PMI-PBA or CSPO certification
+Month 12  → Senior BA role with demonstrated portfolio and impact stories
 ```
 
 ---
+
+## `$ cat /etc/contact.conf`
+
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
 ```
 $ uptime
-5 years of bridging technical gaps. [cite_start]Focused on program excellence. [cite: 4]
+Data Engineer by training. Business Analyst in progress. Building in public.
 ```
-[![Sanjay Viswanathan profile views](https://u8views.com/api/v1/github/profiles/30715153/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjay-kv)
 <!--END_SECTION:waka-->
    </details> 
 
