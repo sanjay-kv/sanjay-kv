@@ -95,24 +95,31 @@ I write regular blog posts, most of which you will find on my personal website [
   </details> 
 
   <details>	
-    <summary><b>📈 Get my Code stats</b></summary><br>
+    <summary><b>📈 Catch up with Me...</b></summary><br>
 <!--START_SECTION:waka-->
 
 ---
 ```
 $ whoami
 ```
-# [Your Name] — Transitioning from Data Engineer to Business Analyst
+### I'm currently transitioning from Data Engineer to Business Analyst
+<br>
+
+![Progress](https://img.shields.io/badge/Plan-4%20Weeks-blue)
+![Level](https://img.shields.io/badge/Target%20Level-Mid--Senior%20BA-green)
+![Background](https://img.shields.io/badge/Background-Data%20Engineering-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ```
 user@localhost:~$ cat /etc/system-release
 Background: Data Engineering
 Target:     Business Analyst / Technical Program Manager
+Goal:  Make me hireable at **mid-level BA** ($90K–$130K range)
 Status:     Transition in progress
 Started:    From engineer to strategist
 ```
 
-I'm not a BA yet. This GitHub is where I'm becoming one — every framework learned, every requirements doc written, every stakeholder scenario practiced, documented in real time.
+### I'm not a BA yet. This GitHub is where I'm becoming one — every framework learned, every requirements doc written, every stakeholder scenario practiced, documented in real time. 
 
 ---
 
@@ -124,6 +131,16 @@ I'm not a BA yet. This GitHub is where I'm becoming one — every framework lear
       Phase: 1/4 — BA Foundations & Business Acumen
    Duration: Week 1 of 4
 ```
+| My DE Skill | How It Maps to BA Value |
+|---|---|
+| Data pipeline design | You can write data requirements that engineers actually respect |
+| SQL & data modeling | You can validate data assumptions stakeholders make (they're usually wrong) |
+| ETL / data flow understanding | You can translate business needs into technical feasibility instantly |
+| Working with engineers | You speak both languages — business & technical |
+| Root cause analysis on data | You can identify *why* a business metric is moving, not just that it moved |
+| Familiarity with cloud platforms | Data governance, compliance, and architecture requirements are second nature |
+
+
 
 ### Transition Progress
 
