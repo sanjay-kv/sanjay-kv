@@ -1,3 +1,7 @@
+```
+$ whoami
+```
+
 <h1 align="center"> Hi there, I'm <a href="https://dev.recodehive.com/link">Sanjay</a> </h1>
 
 <!--- Adding Header Elements -->
@@ -12,7 +16,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Data Engineer | Prev. PM @girlscript <br>
+✨ Analyst | Prev. PM @Google x Ping <br>
 ⚡ Check my ✨ [Website](https://dev.recodehive.com/webs) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
 📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
 👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
@@ -102,7 +106,7 @@ I write regular blog posts, most of which you will find on my personal website [
 ```
 $ whoami
 ```
-### I'm currently transitioning from Data Engineer to Business Analyst
+### I'm currently transitioning from Data Engineer to TPM/BA
 <br>
 
 ![Progress](https://img.shields.io/badge/Plan-4%20Weeks-blue)
@@ -119,7 +123,7 @@ Status:     Transition in progress
 Started:    From engineer to strategist
 ```
 
-### I'm not a BA yet. This GitHub is where I'm becoming one — every framework learned, every requirements doc written, every stakeholder scenario practiced, documented in real time. 
+#### I'm not a BA yet. This GitHub is where I'm becoming one every framework learned, every requirements doc written, every stakeholder scenario practiced, documented in real time. 
 
 ---
 
@@ -140,7 +144,7 @@ Started:    From engineer to strategist
 | Root cause analysis on data | You can identify *why* a business metric is moving, not just that it moved |
 | Familiarity with cloud platforms | Data governance, compliance, and architecture requirements are second nature |
 
-
+**Your pitch:** *"I'm a BA with an engineering background, which means I can bridge the gap between business stakeholders and engineering teams without a translation layer."*
 
 ### Transition Progress
 
@@ -183,7 +187,17 @@ Started:    From engineer to strategist
  │ OKR / KPI  │      │ Data for BA│      │ Portfolio  │      │ STAR Stories│
  └─────┬──────┘      └────────────┘      └────────────┘      └────────────┘
        │
-    [HERE]
+
+    WEEK 5                         
+ ┌────────────┐      
+ │  INTERVIEW │      
+ │    PREP    │     
+ │    Google  │      
+ │            │     
+ │            │      
+ │ OKR / KPI  │     
+ └─────┬──────┘         
+       │   
 ```
 
 ---
@@ -209,23 +223,6 @@ Started:    From engineer to strategist
 
 ---
 
-## `$ cat /proc/my-unfair-advantage`
-
-```
-Most BAs have zero technical depth.
-I have what they don't. This is the pitch.
-```
-
-| My DE Skill | Business Value as a BA |
-|:---|:---|
-| Data pipeline design | Write requirements engineers actually respect — no back-and-forth |
-| SQL & data modeling | Validate every data assumption a stakeholder makes (they're usually wrong) |
-| ETL / data flow knowledge | Instantly assess technical feasibility of any business request |
-| Root cause analysis | Identify *why* a metric is moving, not just that it moved |
-| Cross-team engineering experience | Speak both languages — business and technical — without a translator |
-| Cloud platform familiarity | Data governance, compliance & architecture requirements are second nature |
-
----
 
 ## `$ ls ~/repos`
 
@@ -243,8 +240,8 @@ I have what they don't. This is the pitch.
 I'm building real BA artifacts — not just notes, but deliverables I could hand to an engineering team tomorrow.
 
 **What I'm producing:**
-- Business Requirements Documents (BRD) — written to BABOK standards
-- BPMN 2.0 process flows — AS-IS and TO-BE states
+- Business Requirements Documents (BRD) written to BABOK standards
+- BPMN 2.0 process flows AS-IS and TO-BE states
 - User stories with Gherkin acceptance criteria
 - Stakeholder maps using the Power/Interest grid
 - Business cases with ROI and cost-benefit analysis
@@ -253,7 +250,7 @@ I'm building real BA artifacts — not just notes, but deliverables I could hand
 ### Artifacts Published
 
 <!-- ARTIFACT-LIST:START -->
-*First artifacts in progress — portfolio building now.*
+*First artifacts in progress portfolio building now.*
 <!-- ARTIFACT-LIST:END -->
 
 ---
@@ -295,7 +292,7 @@ DE background = competitive advantage for technical BA and TPM tracks.
 ## `$ journalctl --learning-stack --latest`
 
 **Currently Learning:**
-- BABOK v3 — Chapters 1, 2, 5 (not the whole book — that's a trap)
+- BABOK v3  Chapters 1, 2, 5 (not the whole book that's a trap)
 - Elicitation & collaboration techniques
 - Business acumen: OKRs, KPIs, unit economics, financial literacy
 - BPMN 2.0 process notation
@@ -336,6 +333,106 @@ Month 8   → Start applying for Senior BA roles (internal or external)
 Month 9   → Pass PMI-PBA or CSPO certification
 Month 12  → Senior BA role with demonstrated portfolio and impact stories
 ```
+
+
+<details>
+<summary><b>📈 Week 1 >>> Day 1–2: What Is a BA in Tech? (Unlearning & Relearning)</b></summary><br>
+
+A BA at a startup is NOT the same as a BA at Microsoft or Google. Know the difference.
+
+**Read:**
+- [ ] IIBA BABOK v3 — Chapter 1 & 2 only (don't waste time on the full book yet)
+- [ ] [LinkedIn: What Does a BA Actually Do at Big Tech?](https://www.linkedin.com/pulse/) — search real DE-to-BA transition stories
+- [ ] Microsoft's published job descriptions for BA roles (search `site:linkedin.com "business analyst" "microsoft" "data"`) — read 10 of them and note recurring patterns
+
+**Core Concepts to Master:**
+- [ ] Business Analysis Core Concept Model (BACCM)
+- [ ] The 6 knowledge areas in BABOK (just understand what they are at a high level)
+- [ ] BA vs. Product Manager vs. Product Owner vs. TPM — know the exact differences (you'll get this question)
+
+**Exercise:**
+Take 3 real job descriptions from companies you want to target. Map every requirement to either:
+- ✅ Something you already have from Data Engineering
+- ❌ A gap you need to fill
+
+---
+</details>
+
+<details>
+<summary><b>📈 Day 3–4: Business Acumen — The Skill Most BAs Fake</b></summary><br>
+
+This is where most technical people transitioning into BA roles fail. They know the tools but can't talk business.
+
+**Study:**
+- [ ] **Financial literacy basics**: Revenue models, EBITDA, profit margins, burn rate
+- [ ] **OKRs vs KPIs**: Understand the difference. At Google it's OKRs. You MUST know this.
+- [ ] **Business model canvas**: Know how to fill one out for a tech company
+- [ ] **Unit economics**: CAC, LTV, churn rate, NPS — especially if targeting SaaS companies
+
+**Real Talk:** Go to [Annual Reports](https://investor.microsoft.com) of Microsoft or Google. Read the business highlights section (not financials). Can you explain in plain language what that company's strategic priorities are? If not, you're not ready for Senior BA.
+
+**Practice Exercise:**
+Pick ONE company you want to work at. Write a 1-page "Business Context Brief" covering:
+- Their top 3 revenue streams
+- Their biggest business challenge right now (use recent earnings call transcripts)
+- 2 areas where a BA could add value
+
+---
+</details>
+
+<details>
+<summary><b>📈 Day 5–7: Elicitation Techniques — How BAs Extract Requirements</b></summary><br>
+
+BAs don't just "gather requirements." That's an entry-level mindset. Senior BAs **elicit** requirements — meaning they pull out what stakeholders don't even know they need.
+
+**Techniques to Learn (with Practice):**
+
+| Technique | When to Use | Your DE Parallel |
+|---|---|---|
+| Interviews (structured/unstructured) | Understanding stakeholder goals | Sprint retrospectives, team syncs |
+| Workshops / JAD sessions | Multi-stakeholder alignment | Data governance meetings |
+| Observation (Job Shadowing) | Undocumented processes | Watching dashboards used |
+| Document Analysis | Understanding existing systems | Reading existing data schemas |
+| Surveys / Questionnaires | Broad input, many stakeholders | None direct — new skill |
+| Prototyping | Validating understanding visually | Data model mockups |
+
+**Practice:**
+- [ ] Interview a friend about a problem they have at work. Write a formal requirements document from it.
+- [ ] Watch 3 YouTube videos of BA interviews/workshops in action
+
+**Deliverable by End of Week 1:**
+A written Gap Analysis: "My DE skills vs. BA competency requirements" — be brutally honest.
+
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
+<details>
+<summary><b>📈 Day 1–2: </b></summary><br>
+</details>
+
 
 ---
 
