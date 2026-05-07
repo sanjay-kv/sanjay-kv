@@ -6,9 +6,10 @@ $ whoami
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
+  <a href="https://dev.recodehive.com/webs">Portfolio</a> -
   <a href="https://dev.recodehive.com/link">LinkedIn</a> - 
-  <a href="https://dev.recodehive.com/tweet">Twitter</a> -
+  <a href="https://dev.recodehive.com/tweet">X</a> -
+  <a href="https://open.spotify.com/episode/601Tx5f6COtGRhjiHI6EhY?go=1&sp_cid=fd7333c9b3774cc0b44dea257bfe4547&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=e6dcb01a51b04cef">Podcast</a> -
   <a href="https://dev.recodehive.com/webz">Website</a> -
   <a href="https://learn.recodehive.com/crowds">Google Featured</a> -
   <a href="https://blog.recodehive.com/topmate">Contact me.</a> 
@@ -17,10 +18,10 @@ $ whoami
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 ✨ Analyst | Prev. PM @Google x Ping <br>
-⚡ Check my ✨ [Website](https://dev.recodehive.com/webs) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
+⚡ Check my ✨ [Website](https://www.recodehive.com/showcase) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
 📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
 👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
-💬 Ask me about SEO/Data Science.<br>
+💬 Ask me about SEO/Data Science/AI/Program Management.<br>
 <!--- Adding Tech Stack open Section -->
 
 
@@ -61,13 +62,17 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
  <summary><b>📝 Curated Articles</b></summary><br>
 
 
-I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://learn.recodehive.com/git-tutorial)
+I write regular blog posts, read it on my personal website [<re/code> hive](https://learn.recodehive.com/git-tutorial)👇
 <br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/octocat-moving.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
-👇<br>
+<br>
   📘 [GitHub Cheat sheet | Complete Tutorials.](https://learn.recodehive.com/git-tutorial)<br>
-  📒 [Google Student Ambassdor Program 2025](https://www.recodehive.com/docs/docs/google-campus-ambassador-part-1)<br>
   📙 [Develop SQL Skills, SQL for Dummies](https://www.recodehive.com/docs/sql/intro-sql)<br>
-➡️ [more blog posts...](https://dev.recodehive.com/webz)
+  📒 [How Single Sign-on Works - Case Study](https://www.recodehive.com/docs/docs/google-campus-ambassador-part-1)<br>
+  📕 [The Retrospective of My 2025:](https://recodehive.substack.com/p/the-retrospective-of-my-2025)<br>
+  📗 [Mastering Your First 90 Days in Tech](https://recodehive.substack.com/p/mastering-your-first-90-days-in-tech)<br>
+  📘 [Podcast: The Comeback code - reset your Frequency](https://recodehive.substack.com/p/the-comeback-code)<br>
+
+➡️ [more blog posts...](https://www.recodehive.com/blogs)
 </details> 
 <!--- 2nd Section on GitHub Analytics -->
   <details>	
