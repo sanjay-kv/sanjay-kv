@@ -15,7 +15,7 @@ $ whoami
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Analyst | Prev. PM @Google x Ping <br>
 ⚡ Check my ✨ [Website](https://dev.recodehive.com/webs) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
 📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
