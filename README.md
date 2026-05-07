@@ -44,8 +44,6 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Lucidchart-FF6B00?logo=Lucidchart&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Whimsical-7B68EE?logo=Whimsical&logoColor=white&style=flat">&nbsp;
 
 
 <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
