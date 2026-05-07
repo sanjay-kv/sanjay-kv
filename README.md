@@ -336,7 +336,17 @@ Month 12  → Senior BA role with demonstrated portfolio and impact stories
 
 
 <details>
-<summary><b>📈 Week 1 >>> Day 1–2: What Is a BA in Tech? (Unlearning & Relearning)</b></summary><br>
+<summary><b>📈 Week 1: What Is a BA in Tech? (Unlearning & Relearning)</b></summary><br>
+
+| Task | Status | Notes |
+|---|---|---|
+| Read BABOK Chapters 1–2 | ⬜ | |
+| Complete DE→BA Gap Analysis | ⬜ | |
+| Study 10 real BA job descriptions | ⬜ | |
+| Learn financial literacy basics | ⬜ | |
+| Write 1-page Business Context Brief | ⬜ | |
+| Practice 3 elicitation techniques | ⬜ | |
+
 
 A BA at a startup is NOT the same as a BA at Microsoft or Google. Know the difference.
 
@@ -406,33 +416,370 @@ A written Gap Analysis: "My DE skills vs. BA competency requirements" — be bru
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📈Week 2 — Requirements Engineering & Stakeholder Management  </b></summary><br>
+
+| Task | Status | Notes |
+|---|---|---|
+| Learn BRD structure and write one | ⬜ | |
+| Master user stories + acceptance criteria | ⬜ | |
+| Practice stakeholder mapping exercise | ⬜ | |
+| Review BI tool proficiency (Power BI / Tableau) | ⬜ | |
+| Complete data analysis practice set | ⬜ | |
+
+> **Goal:** Master writing requirements so well that engineers don't push back, and so clearly that non-technical stakeholders understand them.
+
+### Day 8–10: Writing Requirements That Don't Get Rejected
+
+Most BA-written requirements are vague and get revised 5 times. Learn to write them right the first time.
+
+**Business Requirements Document (BRD) — Master Structure:**
+
+```
+1. Executive Summary        ← What problem are we solving? Why now?
+2. Business Objectives      ← Measurable goals (not vague "improve efficiency")
+3. Scope                    ← What's IN. What's OUT. (This saves you from scope creep)
+4. Stakeholders             ← RACI matrix
+5. Business Requirements    ← High-level "what the business needs"
+6. Functional Requirements  ← What the system must do
+7. Non-Functional Req.      ← Performance, security, compliance
+8. Assumptions & Constraints
+9. Risks
+10. Acceptance Criteria     ← How do we know we're done?
+```
+
+**Writing Standards to Learn:**
+- [ ] **User Stories**: `As a [user], I want to [do X], so that [business value Y]`
+- [ ] **Use Cases**: Actor + System interaction (not the same as user stories)
+- [ ] **Acceptance Criteria**: Given/When/Then (Gherkin syntax)
+- [ ] **Business Rules**: "If X, then Y" — explicit logic that engineers can implement
+- [ ] **Data Requirements**: This is where your DE background DOMINATES. Write data dictionaries, field-level specs, data flow requirements.
+
+**The SMART Requirement Rule:**
+Every requirement must be: **S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**estable
+
+❌ Bad: *"The system should load quickly"*
+✅ Good: *"The dashboard shall load within 3 seconds for datasets up to 1M rows on a standard enterprise network connection"*
+
+**Practice:**
+- [ ] Write a BRD for a fake project: "A data pipeline monitoring dashboard for the operations team"
+- [ ] Get it reviewed — post in BA communities on Reddit (r/businessanalysis) or LinkedIn groups
+
+---
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📈 Day 13–14: Data Analysis for BA — Your Strongest Card </b></summary><br>
+### 
+
+As a former DE, this is where you'll outperform 90% of BA candidates. Use it.
+
+**What BAs Do with Data (That Most Can't Do Well):**
+- [ ] **Variance analysis**: Why did this metric change? (Root cause analysis)
+- [ ] **Trend analysis**: Leading vs. lagging indicators
+- [ ] **Business case quantification**: "This feature will save X hours/week × Y employees = $Z annually"
+- [ ] **Data validation in requirements**: Can the data actually support the requested report?
+- [ ] **Dashboard requirements**: Writing specs for BI tools (Tableau, Power BI, Looker)
+
+**Tools BAs Are Expected to Know in Tech Companies:**
+
+| Tool | Proficiency Level Needed | Your Current Level |
+|---|---|---|
+| SQL | Advanced (window functions, CTEs) | ✅ Likely strong |
+| Excel / Google Sheets | Pivot tables, VLOOKUP, basic macros | ✅ Should be fine |
+| Power BI or Tableau | Build basic dashboards, read advanced ones | ⚠️ Check yourself |
+| Jira / Confluence | Creating epics, stories, writing documentation | ⚠️ Check yourself |
+| Visio / Lucidchart | Process flows, swim lane diagrams | ❌ Likely gap |
+| Python for data | Pandas for data analysis, not engineering | ✅ Likely can transfer |
+
+**Deliverable by End of Week 2:**
+A complete BRD for a realistic business problem. Write it like you're handing it to engineers tomorrow.
+
+---
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📅 Week 3 — Process Modeling, Agile & Tools Deep Dive</b></summary><br>
+| Task | Status | Notes |
+|---|---|---|
+| Learn BPMN 2.0 fundamentals | ⬜ | |
+| Build swim lane diagram in Lucidchart | ⬜ | |
+| Set up Jira/Confluence workspace | ⬜ | |
+| Study Agile BA role in Scrum | ⬜ | |
+| Build 5-artifact GitHub portfolio | ⬜ | |
+
+> **Goal:** Master visual communication of business processes and operate fluently in Agile environments.
+
+### Day 15–17: Process Modeling — Think Visually
+
+Senior BAs communicate in diagrams, not just documents. You'll need to produce these in real time during workshops.
+
+**Must-Know Diagram Types:**
+
+#### BPMN 2.0 (Business Process Model and Notation)
+The industry standard for documenting business processes. Used at every major tech company.
+
+Key elements:
+- **Events**: Start ◯, End ◉, Intermediate ◎
+- **Activities**: Tasks □, Sub-processes □+
+- **Gateways**: Exclusive ✕ (OR), Parallel + (AND), Inclusive ◯ (OR with multiple)
+- **Flows**: Sequence →, Message --→, Association ···→
+- **Pools & Lanes**: Organizational boundaries
+
+**Practice with:** [Camunda Modeler](https://camunda.com/download/modeler/) (free) or [draw.io](https://draw.io)
+
+#### Swim Lane Diagrams (Cross-functional)
+Shows WHO does WHAT across departments. Most used in stakeholder workshops.
+
+#### Data Flow Diagrams (DFD) — Your DE Advantage
+You've seen these in technical contexts. Now learn to draw them for business stakeholders.
+- Level 0: Context diagram (one process, all external entities)
+- Level 1: Break down that one process into sub-processes
+- Level 2: Deeper detail as needed
+
+#### UML Use Case Diagrams
+Used specifically for system requirements. Shows actors and system interactions.
+
+**Week 3 Tooling Practice (minimum 2 hours each):**
+- [ ] Lucidchart or draw.io: Build a swim lane diagram
+- [ ] Camunda: Build a BPMN 2.0 process flow for an e-commerce order process
+- [ ] Confluence: Create a requirements wiki page with embedded diagrams
+- [ ] Jira: Build a complete epic with user stories, acceptance criteria, and sub-tasks
+
+---
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📈 Day 18–19: Agile BA — How BA Works in Scrum Teams</b></summary><br>
+
+
+Most companies run Agile. The BA role in Agile is very different from Waterfall.
+
+**BA in Agile vs. Waterfall:**
+
+| | Waterfall BA | Agile BA |
+|---|---|---|
+| Requirements timing | All upfront, big document | Progressive elaboration, just-in-time |
+| Documentation style | Formal BRD | Lightweight user stories + acceptance criteria |
+| Relationship with team | Handoff mentality | Embedded in the sprint team |
+| Change management | Change request process | Embrace change, update backlog |
+| Validation | At the end | Continuous, each sprint |
+
+**Agile BA Responsibilities:**
+- [ ] **Backlog refinement**: Writing and prioritizing user stories with the Product Owner
+- [ ] **Sprint planning support**: Clarifying requirements for engineers in real-time
+- [ ] **Definition of Done** vs. **Definition of Ready**: Know both, enforce both
+- [ ] **Story pointing**: Facilitate estimation sessions (you'll use your DE knowledge to challenge engineering estimates)
+- [ ] **Sprint review**: Validate delivered functionality against acceptance criteria
+- [ ] **Retrospectives**: Facilitate and document improvement actions
+
+**Certifications that prove this (for your resume):**
+- PMI-ACP (Agile Certified Practitioner) — worth it for Senior roles
+- Certified Scrum Product Owner (CSPO) — also maps to TPM roles
+- SAFe Product Owner/Product Manager — used at large enterprises like Microsoft
+
+---
+
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📈 Day 20–21: Tools Hands-On Lab </b></summary><br>
+
+You can't say you know a tool in an interview if you've only watched videos.
+
+**This Weekend — Build Real Artifacts:**
+
+**Project:** Pick a real problem from your DE experience (e.g., "Our data quality monitoring process was manual and error-prone"). Document it as a BA.
+
+- [ ] **Artifact 1**: Stakeholder map (Power/Interest grid) for that project
+- [ ] **Artifact 2**: BPMN swim lane diagram of the AS-IS process
+- [ ] **Artifact 3**: 5 user stories with Gherkin acceptance criteria
+- [ ] **Artifact 4**: A TO-BE process diagram showing the improved state
+- [ ] **Artifact 5**: A 1-slide executive summary of the problem and proposed solution
+
+Upload all 5 to GitHub. This is your **BA Portfolio**.
+
+> **Why this matters:** Every BA job description says "portfolio of work is a plus." Most candidates don't have one. You will.
+
+**Deliverable by End of Week 3:**
+A GitHub portfolio with at least 5 BA artifacts from a real-world-based scenario.
+
+---
+
+
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📅 Week 4 — Senior-Level Skills & Interview Readiness </b></summary><br>
+
+| Task | Status | Notes |
+|---|---|---|
+| Prepare 12 STAR stories (2 per category) | ⬜ | |
+| Complete 3 case study practice runs | ⬜ | |
+| Rewrite resume with BA framing | ⬜ | |
+| Update LinkedIn to BA narrative | ⬜ | |
+| Apply to 20+ targeted roles | ⬜ | |
+| Network: connect with 10 BA practitioners | ⬜ | |
+**Goal:** Close the gap between "mid-level BA" and "Senior BA" framing in interviews. Land the first role.
+
+### Day 22–23: Senior-Level BA Competencies
+
+Here's what separates Senior BAs from regular BAs. Be honest about where you are.
+
+**Strategic Thinking:**
+- [ ] You don't just document problems — you identify problems the business doesn't know it has
+- [ ] You connect individual projects to company-wide strategic objectives
+- [ ] You can build a business case from scratch with ROI calculation
+- [ ] You can challenge scope decisions with data and business logic
+
+**Business Case Writing (Critical for Senior Roles):**
+```
+Structure of a Strong Business Case:
+1. Problem Statement      → Quantified impact of the current problem
+2. Proposed Solution      → What exactly you're recommending
+3. Options Analysis       → At least 3 options (including "do nothing")
+4. Cost-Benefit Analysis  → NPV, payback period, ROI
+5. Risk Assessment        → What could go wrong, mitigation strategies
+6. Recommendation         → Clear, confident, single recommendation
+7. Success Metrics        → How you'll measure if it worked
+```
+
+**Practice:** Write a business case for a data quality improvement initiative. Quantify the cost of bad data missed SLAs, manual fixes, eng
 </details>
 
 <details>
-<summary><b>📈 Day 1–2: </b></summary><br>
+<summary><b>📈 Day 24–25: Interview Preparation — The Real Ones </b></summary><br>
+
+
+**Interview Types You'll Face:**
+
+#### 1. Behavioral Interviews (STAR Method — mandatory)
+Companies like Amazon use Leadership Principles. Microsoft uses "Why Microsoft + growth mindset." Google uses "Googleyness."
+
+Must-have STAR stories (prepare 2 per category):
+- [ ] **Dealing with ambiguity**: "Tell me about a time requirements kept changing"
+- [ ] **Influencing without authority**: "Tell me about a time you drove alignment between conflicting teams"
+- [ ] **Data-driven decisions**: "Tell me about a time you used data to challenge a stakeholder's assumption"
+- [ ] **Failure story**: "Tell me about a project that failed. What did you do?"
+- [ ] **Stakeholder conflict**: "Tell me about a difficult stakeholder. How did you manage them?"
+- [ ] **Technical to non-technical**: "Tell me about a time you explained a complex technical concept to a non-technical audience"
+
+> **Your DE superpower story:** "I was a data engineer who saw the business impact of our data decisions firsthand. I started documenting requirements proactively to prevent downstream rework. This led me to realize that the BA function is where I can multiply my impact."
+
+#### 2. Case Studies / Take-Home Assignments
+Common at mid-to-large tech companies. You'll get a scenario and must produce BA artifacts.
+
+Practice scenarios:
+- [ ] "A retail company wants to reduce customer churn by 15% in 6 months. You're the BA. What do you do?"
+- [ ] "An engineering team says a feature will take 6 months. The business says they need it in 2. Facilitate the resolution."
+- [ ] "A new data regulation requires changes to how user data is stored. Write requirements for the change."
+
+#### 3. Technical Screens (Don't ignore this)
+For BA roles at tech companies, especially with TPM overlap:
+- [ ] SQL queries (yes, they test this)
+- [ ] Reading an ERD and identifying data relationships
+- [ ] Understanding API basics (REST, JSON)
+- [ ] Explaining a database table structure to a non-technical stakeholder
+
+---
+
+
 </details>
 
+<details>
+<summary><b>📈 Day 26–27: Resume & LinkedIn Overhaul </b></summary><br>
+
+**Critical — Your Resume Must Reframe Your DE Experience:**
+
+❌ Don't write: *"Built ETL pipelines using Apache Spark"*
+✅ Write: *"Defined and documented data pipeline requirements for 5+ business stakeholders, reducing data quality incidents by 40%"*
+
+❌ Don't write: *"Designed data warehouse schema"*
+✅ Write: *"Led requirements gathering across Finance, Operations, and Product teams to define a unified data model supporting $2M in annual reporting decisions"*
+
+**Resume Structure for BA Transition:**
+```
+Header: Name | Business Analyst | LinkedIn | GitHub (portfolio) | Email
+
+Summary (3 lines max):
+"Data Engineering professional transitioning to Business Analysis with 
+[X] years of experience bridging technical systems and business outcomes. 
+Proven track record of [specific achievement]. Seeking BA/TPM roles 
+where technical depth and business acumen intersect."
+
+Skills Section:
+- Requirements: BRD, User Stories, Use Cases, Process Modeling
+- Analysis: SQL, Python, Power BI, Data Modeling
+- Methodologies: Agile/Scrum, BPMN 2.0, Stakeholder Management
+- Tools: Jira, Confluence, Lucidchart, Tableau
+
+Experience Section:
+[Reframe every DE job in BA language — use metrics]
+```
+
+---
+
+
+</details>
+
+
+<details>
+<summary><b>📈 Day 28: Final Readiness Checklist</b></summary><br>
+
+**Before You Apply:**
+
+**Portfolio Checklist:**
+- [ ] GitHub README with clear BA artifacts (minimum 5)
+- [ ] At least 1 complete BRD written
+- [ ] At least 1 BPMN process diagram
+- [ ] At least 1 business case with ROI
+- [ ] LinkedIn profile updated to reflect BA transition narrative
+
+**Knowledge Checklist:**
+- [ ] Can explain BABOK knowledge areas without notes
+- [ ] Can write a user story + acceptance criteria in 5 minutes
+- [ ] Can build a BPMN diagram in Lucidchart in real time
+- [ ] Know the difference between BA / PM / PO / TPM roles cold
+- [ ] Can articulate your value proposition as a DE-turned-BA in 60 seconds
+
+**Application Strategy:**
+- [ ] Target 20 companies minimum (not just the top 5)
+- [ ] Apply to **Analyst** roles, not just "Senior BA" — get the experience first
+- [ ] Prioritize data-heavy industries: FinTech, HealthTech, Enterprise SaaS
+- [ ] Network first: 40% of BA jobs at big tech are filled before they're posted
+
+---
+
+### Communities & Networking
+- IIBA (International Institute of Business Analysis) — iiba.org — Join local chapter
+- r/businessanalysis — Active Reddit community
+- LinkedIn: Search "BA transition" and connect with people who made the same move
+- Meetup.com: "Business Analysis" groups in your city
+
+
+### YouTube Channels
+- **BA Mentor (Adriana Beal)** — High quality BA content
+- **The Business Analyst Channel** — Interview prep, real scenarios
+- **Techcanuck** — DE to BA transition stories
+</details>
+
+
+<details>
+<summary><b>⚡ Quick Reference — BA Terminology Cheat Sheet </b></summary><br>
+
+| Term | Definition | Used In |
+|---|---|---|
+| **BRD** | Business Requirements Document — the what and why | Waterfall, large enterprise |
+| **FRS** | Functional Requirements Specification — the how | Development teams |
+| **UAT** | User Acceptance Testing — business validates the build | End of project |
+| **RACI** | Responsible, Accountable, Consulted, Informed — who does what | Project planning |
+| **BPMN** | Business Process Model and Notation — process diagrams | Process documentation |
+| **DFD** | Data Flow Diagram — how data moves through a system | Technical requirements |
+| **MVP** | Minimum Viable Product — smallest thing that delivers value | Agile projects |
+| **MoSCoW** | Must have, Should have, Could have, Won't have — prioritization | Backlog grooming |
+| **AS-IS** | Current state process | Process improvement |
+| **TO-BE** | Future state process | Process improvement |
+| **Traceability Matrix** | Links requirements to test cases | Quality assurance |
+</details>
 
 ---
 
