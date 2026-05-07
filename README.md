@@ -26,18 +26,28 @@ $ whoami
 
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
-Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+Languages/Script: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
-<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-VBA-217346?logo=Microsoft-Excel&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat">&nbsp;<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat">&nbsp;<br>
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Lucidchart-FF6B00?logo=Lucidchart&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Whimsical-7B68EE?logo=Whimsical&logoColor=white&style=flat">&nbsp;
+
+
 <!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
