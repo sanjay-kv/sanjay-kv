@@ -66,7 +66,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 </div>
 
 
-<details>	
+<details open>	
  <summary><b>📝 Curated Articles</b></summary><br>
 
 
