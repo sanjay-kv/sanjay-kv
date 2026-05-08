@@ -71,7 +71,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 
 
 I write regular blog posts, read it on my personal website [<re/code> hive](https://learn.recodehive.com/git-tutorial)👇
-<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/octocat-moving.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
+<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-fly.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 <br>
   📘 [GitHub Cheat sheet | Complete Tutorials.](https://learn.recodehive.com/git-tutorial)<br>
   📙 [Develop SQL Skills, SQL for Dummies](https://www.recodehive.com/docs/sql/intro-sql)<br>
