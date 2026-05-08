@@ -85,10 +85,21 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
 <!--- 2nd Section on GitHub Analytics -->
   <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V GitHub Stats" />
-</a>
+
+
+  <p align="center">
+    <img style="width: 98%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  <p align="center">
+    <img style="width: 78%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-kv&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
+  </p>
+
 <!--- 3rd Section on Recent Projects -->
 </details> 
   <details>	
