@@ -87,10 +87,10 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
   <p align="center">
-    <img style="width: 78%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+    <img style="width: 88%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
   </p>
   <p align="center">
-    <img style="width: 48%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+    <img style="width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
   </p>
   
   <p align="center">
