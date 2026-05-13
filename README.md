@@ -66,7 +66,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 </div>
 
 
-<details open>	
+<details>	
  <summary><b>📝 Curated Articles</b></summary><br>
 
 
@@ -116,7 +116,7 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
 3. ℹ️ Labeled issue [#1503](https://github.com/recodehive/recode-website/issues/1503) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 4. ❗ Opened issue [#1506](https://github.com/recodehive/recode-website/issues/1506) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 5. 🗣 Commented on [#1503](https://github.com/recodehive/recode-website/issues/1503#issuecomment-4438954733) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
+6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
   </details> 
