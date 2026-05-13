@@ -92,10 +92,12 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   <p align="center">
     <img style="width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
   </p>
-  
+
+
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
   </p>
+
 
 <!--- 3rd Section on Recent Projects -->
 </details> 
@@ -836,8 +838,19 @@ Data Engineer by training. Business Analyst in progress. Building in public.
 <!--
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 -->
+
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://event.recodehive.com/git">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
+  <a href="mailto:sanjay@recodehive.com">
+    <img alt="sanjay email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
+  </a>
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
+  </a>
+  Do you want to contact me for collaboration opportunities? ⟶ <a href="https://event.recodehive.com/git">Contact Details</a><br>
+  <b>Show some ❤️ by starring some of the repositories!.</b>
+</p>
+<br clear="both" />
+
+
 <!--- Footer End -->
 <!--- Body End -->
