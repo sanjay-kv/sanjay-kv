@@ -112,8 +112,8 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
 
   <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Unlabeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Labeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Labeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Unlabeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 4. ℹ️ Labeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 5. ℹ️ Unlabeled issue [#1532](https://github.com/recodehive/recode-website/issues/1532) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
