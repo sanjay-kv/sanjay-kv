@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1601](https://github.com/recodehive/recode-website/issues/1601#issuecomment-4498697435) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🗣 Commented on [#1583](https://github.com/recodehive/recode-website/pull/1583#issuecomment-4498667708) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned PR [#1604](https://github.com/recodehive/recode-website/pull/1604) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 🔒 Closed issue [#1577](https://github.com/recodehive/recode-website/issues/1577) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🔒 Closed issue [#1597](https://github.com/recodehive/recode-website/issues/1597) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ❌ Closed PR [#1607](https://github.com/recodehive/recode-website/pull/1607) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 💪 Opened PR [#1607](https://github.com/recodehive/recode-website/pull/1607) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned issue [#1595](https://github.com/recodehive/recode-website/issues/1595) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🎉 Merged PR [#1606](https://github.com/recodehive/recode-website/pull/1606) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 💪 Opened PR [#1606](https://github.com/recodehive/recode-website/pull/1606) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
