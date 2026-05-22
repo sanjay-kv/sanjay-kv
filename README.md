@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1647](https://github.com/recodehive/recode-website/pull/1647) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🔒 Closed issue [#1485](https://github.com/recodehive/recode-website/issues/1485) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Labeled PR [#1646](https://github.com/recodehive/recode-website/pull/1646) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Labeled PR [#1646](https://github.com/recodehive/recode-website/pull/1646) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Labeled PR [#1646](https://github.com/recodehive/recode-website/pull/1646) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ❗ Opened issue [#1650](https://github.com/recodehive/recode-website/issues/1650) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Assigned issue [#1650](https://github.com/recodehive/recode-website/issues/1650) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned issue [#1650](https://github.com/recodehive/recode-website/issues/1650) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#1648](https://github.com/recodehive/recode-website/issues/1648) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🗣 Commented on [#1637](https://github.com/recodehive/recode-website/issues/1637#issuecomment-4519991360) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
