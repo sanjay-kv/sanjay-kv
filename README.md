@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1680](https://github.com/recodehive/recode-website/pull/1680#issuecomment-4526254852) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Assigned issue [#1679](https://github.com/recodehive/recode-website/issues/1679) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned issue [#1679](https://github.com/recodehive/recode-website/issues/1679) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ❗ Opened issue [#1679](https://github.com/recodehive/recode-website/issues/1679) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🗣 Commented on [#899](https://github.com/recodehive/Support/issues/899#issuecomment-4525966531) in [recodehive/Support](https://github.com/recodehive/Support)
+1. ❗ Opened issue [#1686](https://github.com/recodehive/recode-website/issues/1686) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Assigned issue [#1686](https://github.com/recodehive/recode-website/issues/1686) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned issue [#1686](https://github.com/recodehive/recode-website/issues/1686) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#1682](https://github.com/recodehive/recode-website/issues/1682) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🎉 Merged PR [#1685](https://github.com/recodehive/recode-website/pull/1685) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
