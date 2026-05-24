@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1692](https://github.com/recodehive/recode-website/issues/1692) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Labeled issue [#1692](https://github.com/recodehive/recode-website/issues/1692) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Labeled issue [#1692](https://github.com/recodehive/recode-website/issues/1692) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Labeled issue [#1692](https://github.com/recodehive/recode-website/issues/1692) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Assigned issue [#1692](https://github.com/recodehive/recode-website/issues/1692) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 🗣 Commented on [#1691](https://github.com/recodehive/recode-website/pull/1691#issuecomment-4528022863) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🗣 Commented on [#1696](https://github.com/recodehive/recode-website/pull/1696#issuecomment-4528021299) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🗣 Commented on [#1681](https://github.com/recodehive/recode-website/pull/1681#issuecomment-4528018373) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🗣 Commented on [#1678](https://github.com/recodehive/recode-website/pull/1678#issuecomment-4527989558) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🚀 Published release [V1.0.6](https://github.com/recodehive/recode-website/releases/tag/V1.0.6-recode) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
