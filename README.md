@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1731](https://github.com/recodehive/recode-website/issues/1731) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Assigned issue [#1730](https://github.com/recodehive/recode-website/issues/1730) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. 🗣 Commented on [#1574](https://github.com/recodehive/recode-website/issues/1574#issuecomment-4535446303) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Assigned issue [#1733](https://github.com/recodehive/recode-website/issues/1733) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Assigned issue [#1732](https://github.com/recodehive/recode-website/issues/1732) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Assigned PR [#1735](https://github.com/recodehive/recode-website/pull/1735) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🔒 Closed issue [#1695](https://github.com/recodehive/recode-website/issues/1695) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned PR [#1734](https://github.com/recodehive/recode-website/pull/1734) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#1675](https://github.com/recodehive/recode-website/issues/1675) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🗣 Commented on [#1727](https://github.com/recodehive/recode-website/pull/1727#issuecomment-4538165004) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
