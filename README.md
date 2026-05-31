@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1806](https://github.com/recodehive/recode-website/pull/1806) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 💪 Opened PR [#1806](https://github.com/recodehive/recode-website/pull/1806) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. 🔒 Closed issue [#1804](https://github.com/recodehive/recode-website/issues/1804) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Assigned issue [#1804](https://github.com/recodehive/recode-website/issues/1804) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Assigned issue [#1804](https://github.com/recodehive/recode-website/issues/1804) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Labeled issue [#1808](https://github.com/recodehive/recode-website/issues/1808) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Labeled issue [#1808](https://github.com/recodehive/recode-website/issues/1808) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Labeled issue [#1808](https://github.com/recodehive/recode-website/issues/1808) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Assigned issue [#1808](https://github.com/recodehive/recode-website/issues/1808) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ℹ️ Labeled issue [#1808](https://github.com/recodehive/recode-website/issues/1808) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
