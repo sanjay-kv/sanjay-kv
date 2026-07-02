@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#5](https://github.com/recodehive/righttway/issues/5) in [recodehive/righttway](https://github.com/recodehive/righttway)
-2. ℹ️ Assigned issue [#5](https://github.com/recodehive/righttway/issues/5) in [recodehive/righttway](https://github.com/recodehive/righttway)
-3. ❗ Opened issue [#5](https://github.com/recodehive/righttway/issues/5) in [recodehive/righttway](https://github.com/recodehive/righttway)
-4. 🔒 Closed issue [#3](https://github.com/recodehive/righttway/issues/3) in [recodehive/righttway](https://github.com/recodehive/righttway)
-5. 🗣 Commented on [#4](https://github.com/recodehive/righttway/pull/4#issuecomment-4861389296) in [recodehive/righttway](https://github.com/recodehive/righttway)
+1. ❌ Closed PR [#10](https://github.com/recodehive/righttway/pull/10) in [recodehive/righttway](https://github.com/recodehive/righttway)
+2. ℹ️ Assigned issue [#9](https://github.com/recodehive/righttway/issues/9) in [recodehive/righttway](https://github.com/recodehive/righttway)
+3. ℹ️ Assigned issue [#9](https://github.com/recodehive/righttway/issues/9) in [recodehive/righttway](https://github.com/recodehive/righttway)
+4. ❗ Opened issue [#9](https://github.com/recodehive/righttway/issues/9) in [recodehive/righttway](https://github.com/recodehive/righttway)
+5. ❌ Closed PR [#8](https://github.com/recodehive/righttway/pull/8) in [recodehive/righttway](https://github.com/recodehive/righttway)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
