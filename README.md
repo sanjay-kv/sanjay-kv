@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2052](https://github.com/recodehive/recode-website/pull/2052) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ❌ Closed PR [#2053](https://github.com/recodehive/recode-website/pull/2053) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ❌ Closed PR [#2051](https://github.com/recodehive/recode-website/pull/2051) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ❌ Closed PR [#2050](https://github.com/recodehive/recode-website/pull/2050) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ❌ Closed PR [#2007](https://github.com/recodehive/recode-website/pull/2007) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Labeled issue [#2054](https://github.com/recodehive/recode-website/issues/2054) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Labeled issue [#2054](https://github.com/recodehive/recode-website/issues/2054) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned issue [#2054](https://github.com/recodehive/recode-website/issues/2054) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Labeled issue [#2055](https://github.com/recodehive/recode-website/issues/2055) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ℹ️ Labeled issue [#2055](https://github.com/recodehive/recode-website/issues/2055) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
