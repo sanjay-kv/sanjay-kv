@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2167](https://github.com/recodehive/recode-website/issues/2167) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Assigned issue [#2164](https://github.com/recodehive/recode-website/issues/2164) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned issue [#2165](https://github.com/recodehive/recode-website/issues/2165) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 🗣 Commented on [#2165](https://github.com/recodehive/recode-website/issues/2165#issuecomment-5867074128) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🗣 Commented on [#2164](https://github.com/recodehive/recode-website/issues/2164#issuecomment-5867034636) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Assigned PR [#2172](https://github.com/recodehive/recode-website/pull/2172) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Labeled PR [#2172](https://github.com/recodehive/recode-website/pull/2172) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Unlabeled PR [#2172](https://github.com/recodehive/recode-website/pull/2172) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Assigned issue [#2167](https://github.com/recodehive/recode-website/issues/2167) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ℹ️ Assigned issue [#2164](https://github.com/recodehive/recode-website/issues/2164) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
