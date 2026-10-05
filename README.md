@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#966](https://github.com/recodehive/Support/issues/966#issuecomment-5977564681) in [recodehive/Support](https://github.com/recodehive/Support)
-2. 🔒 Closed issue [#966](https://github.com/recodehive/Support/issues/966) in [recodehive/Support](https://github.com/recodehive/Support)
-3. 🗣 Commented on [#2201](https://github.com/recodehive/recode-website/pull/2201#issuecomment-5942764783) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 🗣 Commented on [#2197](https://github.com/recodehive/recode-website/issues/2197#issuecomment-5942752330) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🗣 Commented on [#2200](https://github.com/recodehive/recode-website/issues/2200#issuecomment-5907498785) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ❌ Closed PR [#2209](https://github.com/recodehive/recode-website/pull/2209) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🔒 Closed issue [#2199](https://github.com/recodehive/recode-website/issues/2199) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ❌ Closed PR [#2206](https://github.com/recodehive/recode-website/pull/2206) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#2192](https://github.com/recodehive/recode-website/issues/2192) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🔒 Closed issue [#2190](https://github.com/recodehive/recode-website/issues/2190) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
