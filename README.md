@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2237](https://github.com/recodehive/recode-website/pull/2237) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🎉 Merged PR [#2275](https://github.com/recodehive/recode-website/pull/2275) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned PR [#2275](https://github.com/recodehive/recode-website/pull/2275) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 💪 Opened PR [#2275](https://github.com/recodehive/recode-website/pull/2275) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🗣 Commented on [#2262](https://github.com/recodehive/recode-website/pull/2262#issuecomment-6247213994) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Labeled issue [#2161](https://github.com/recodehive/recode-website/issues/2161) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Labeled issue [#2240](https://github.com/recodehive/recode-website/issues/2240) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🎉 Merged PR [#2276](https://github.com/recodehive/recode-website/pull/2276) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Assigned PR [#2276](https://github.com/recodehive/recode-website/pull/2276) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 💪 Opened PR [#2276](https://github.com/recodehive/recode-website/pull/2276) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
