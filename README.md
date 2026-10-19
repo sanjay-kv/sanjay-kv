@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2305](https://github.com/recodehive/recode-website/issues/2305) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🎉 Merged PR [#2302](https://github.com/recodehive/recode-website/pull/2302) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned PR [#2309](https://github.com/recodehive/recode-website/pull/2309) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 💪 Opened PR [#2310](https://github.com/recodehive/recode-website/pull/2310) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Labeled issue [#2304](https://github.com/recodehive/recode-website/issues/2304) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 🗣 Commented on [#2300](https://github.com/recodehive/recode-website/issues/2300#issuecomment-6262609154) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ❗ Opened issue [#2305](https://github.com/recodehive/recode-website/issues/2305) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🎉 Merged PR [#2302](https://github.com/recodehive/recode-website/pull/2302) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Assigned PR [#2309](https://github.com/recodehive/recode-website/pull/2309) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 💪 Opened PR [#2310](https://github.com/recodehive/recode-website/pull/2310) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
