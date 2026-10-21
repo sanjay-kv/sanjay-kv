@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2392](https://github.com/recodehive/recode-website/pull/2392) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ℹ️ Assigned PR [#2392](https://github.com/recodehive/recode-website/pull/2392) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. 💪 Opened PR [#2392](https://github.com/recodehive/recode-website/pull/2392) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 🎉 Merged PR [#2391](https://github.com/recodehive/recode-website/pull/2391) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Labeled issue [#2389](https://github.com/recodehive/recode-website/issues/2389) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 🗣 Commented on [#2194](https://github.com/recodehive/recode-website/issues/2194#issuecomment-6312749554) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🔒 Closed issue [#2194](https://github.com/recodehive/recode-website/issues/2194) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🎉 Merged PR [#2386](https://github.com/recodehive/recode-website/pull/2386) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ❌ Closed PR [#2392](https://github.com/recodehive/recode-website/pull/2392) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ℹ️ Assigned PR [#2392](https://github.com/recodehive/recode-website/pull/2392) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
