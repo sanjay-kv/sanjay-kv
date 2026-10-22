@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2432](https://github.com/recodehive/recode-website/pull/2432) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🎉 Merged PR [#2430](https://github.com/recodehive/recode-website/pull/2430) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. 🎉 Merged PR [#2431](https://github.com/recodehive/recode-website/pull/2431) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Assigned PR [#2431](https://github.com/recodehive/recode-website/pull/2431) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 💪 Opened PR [#2431](https://github.com/recodehive/recode-website/pull/2431) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 💪 Opened PR [#2433](https://github.com/recodehive/recode-website/pull/2433) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🔒 Closed issue [#2422](https://github.com/recodehive/recode-website/issues/2422) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned PR [#2432](https://github.com/recodehive/recode-website/pull/2432) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🎉 Merged PR [#2430](https://github.com/recodehive/recode-website/pull/2430) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🎉 Merged PR [#2431](https://github.com/recodehive/recode-website/pull/2431) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
