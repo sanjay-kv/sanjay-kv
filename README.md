@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2449](https://github.com/recodehive/recode-website/pull/2449) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 💪 Opened PR [#2453](https://github.com/recodehive/recode-website/pull/2453) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned PR [#2451](https://github.com/recodehive/recode-website/pull/2451) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. 💪 Opened PR [#2452](https://github.com/recodehive/recode-website/pull/2452) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🗣 Commented on [#2328](https://github.com/recodehive/recode-website/issues/2328#issuecomment-6352894813) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 💪 Opened PR [#2454](https://github.com/recodehive/recode-website/pull/2454) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Assigned PR [#2449](https://github.com/recodehive/recode-website/pull/2449) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 💪 Opened PR [#2453](https://github.com/recodehive/recode-website/pull/2453) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. ℹ️ Assigned PR [#2451](https://github.com/recodehive/recode-website/pull/2451) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 💪 Opened PR [#2452](https://github.com/recodehive/recode-website/pull/2452) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
