@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2478](https://github.com/recodehive/recode-website/pull/2478) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. ❌ Closed PR [#2476](https://github.com/recodehive/recode-website/pull/2476) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Unassigned issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-4. ℹ️ Assigned issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-5. ℹ️ Assigned issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+1. ℹ️ Labeled issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+2. ℹ️ Labeled issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+3. 🗣 Commented on [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710#issuecomment-6455071593) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+4. ℹ️ Assigned PR [#2478](https://github.com/recodehive/recode-website/pull/2478) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ❌ Closed PR [#2476](https://github.com/recodehive/recode-website/pull/2476) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
