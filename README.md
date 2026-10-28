@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#988](https://github.com/recodehive/Support/issues/988#issuecomment-6466407471) in [recodehive/Support](https://github.com/recodehive/Support)
-2. 🔒 Closed issue [#988](https://github.com/recodehive/Support/issues/988) in [recodehive/Support](https://github.com/recodehive/Support)
-3. ℹ️ Labeled issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+1. 🔒 Closed issue [#989](https://github.com/recodehive/Support/issues/989) in [recodehive/Support](https://github.com/recodehive/Support)
+2. 🗣 Commented on [#988](https://github.com/recodehive/Support/issues/988#issuecomment-6466407471) in [recodehive/Support](https://github.com/recodehive/Support)
+3. 🔒 Closed issue [#988](https://github.com/recodehive/Support/issues/988) in [recodehive/Support](https://github.com/recodehive/Support)
 4. ℹ️ Labeled issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-5. 🗣 Commented on [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710#issuecomment-6455071593) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+5. ℹ️ Labeled issue [#1710](https://github.com/recodehive/machine-learning-repos/issues/1710) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
