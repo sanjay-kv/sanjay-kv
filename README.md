@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#996](https://github.com/recodehive/Support/issues/996#issuecomment-6578887845) in [recodehive/Support](https://github.com/recodehive/Support)
-2. 🔒 Closed issue [#996](https://github.com/recodehive/Support/issues/996) in [recodehive/Support](https://github.com/recodehive/Support)
-3. ℹ️ Assigned issue [#1717](https://github.com/recodehive/machine-learning-repos/issues/1717) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-4. ℹ️ Assigned issue [#1716](https://github.com/recodehive/machine-learning-repos/issues/1716) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-5. ℹ️ Assigned issue [#1715](https://github.com/recodehive/machine-learning-repos/issues/1715) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+1. ℹ️ Labeled issue [#1717](https://github.com/recodehive/machine-learning-repos/issues/1717) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+2. ℹ️ Labeled issue [#1717](https://github.com/recodehive/machine-learning-repos/issues/1717) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+3. ℹ️ Labeled issue [#1715](https://github.com/recodehive/machine-learning-repos/issues/1715) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+4. ℹ️ Labeled issue [#1715](https://github.com/recodehive/machine-learning-repos/issues/1715) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+5. ℹ️ Labeled issue [#1716](https://github.com/recodehive/machine-learning-repos/issues/1716) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
