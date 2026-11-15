@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1732](https://github.com/recodehive/machine-learning-repos/issues/1732) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-2. 🔒 Closed issue [#1730](https://github.com/recodehive/machine-learning-repos/issues/1730) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-3. 🔒 Closed issue [#1734](https://github.com/recodehive/machine-learning-repos/issues/1734) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-4. 🔒 Closed issue [#1728](https://github.com/recodehive/machine-learning-repos/issues/1728) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
-5. 🔒 Closed issue [#1726](https://github.com/recodehive/machine-learning-repos/issues/1726) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+1. ℹ️ Assigned issue [#2520](https://github.com/recodehive/recode-website/issues/2520) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. ℹ️ Assigned issue [#2521](https://github.com/recodehive/recode-website/issues/2521) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🗣 Commented on [#2519](https://github.com/recodehive/recode-website/issues/2519#issuecomment-6886860155) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#2519](https://github.com/recodehive/recode-website/issues/2519) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🗣 Commented on [#2518](https://github.com/recodehive/recode-website/issues/2518#issuecomment-6886852347) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
