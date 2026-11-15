@@ -111,11 +111,11 @@ I write regular blog posts, read it on my personal website [<re/code> hive](http
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2524](https://github.com/recodehive/recode-website/pull/2524) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🔒 Closed issue [#2517](https://github.com/recodehive/recode-website/issues/2517) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. ℹ️ Assigned PR [#2523](https://github.com/recodehive/recode-website/pull/2523) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-4. ℹ️ Assigned issue [#2520](https://github.com/recodehive/recode-website/issues/2520) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. ℹ️ Assigned issue [#2521](https://github.com/recodehive/recode-website/issues/2521) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Assigned PR [#2525](https://github.com/recodehive/recode-website/pull/2525) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🔒 Closed issue [#2520](https://github.com/recodehive/recode-website/issues/2520) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. ℹ️ Assigned PR [#2524](https://github.com/recodehive/recode-website/pull/2524) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🔒 Closed issue [#2517](https://github.com/recodehive/recode-website/issues/2517) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. ℹ️ Assigned PR [#2523](https://github.com/recodehive/recode-website/pull/2523) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 6. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
 -->
   <!--END_SECTION:activity-->
